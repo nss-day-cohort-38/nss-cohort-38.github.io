@@ -1,0 +1,40 @@
+small {
+    font-size: 75%;
+  }
+  
+  header {
+    margin-top: none;
+    padding-top: none;
+    background-color:none;
+    border: none;
+  }
+  
+  .site-title {
+    color: rgb(28, 28, 28);
+    text-align: center;
+  }
+  
+  nav .container {
+    display: flex;
+    padding: 0;
+    margin-bottom: 0;
+  }
+  
+  nav .container li {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    color: rgb(28, 28, 28);
+    box-sizing: border-box;
+    background-color: none;
+    list-style-type: none;
+  }
+  
+  nav .container a {
+    color: rgb(28, 28, 28);
+  }
+  
+  nav .container a:hover {
+    color: orangered;
+  }

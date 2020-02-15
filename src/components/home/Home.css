@@ -1,0 +1,11 @@
+#homeAddress {
+    margin-top: 5%;
+    font-weight: bold;
+}
+
+#homeImage {
+    width: 100%;
+    height: auto;
+    border: none;
+    margin-bottom: 80px;
+}

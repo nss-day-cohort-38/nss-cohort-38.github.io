@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+        "id": 1,
+        "firstName": "Sam",
+        "lastName": "Pita",
+        "quote": "<p>What an inspirational quote.<br>- Inspirational Person<p>",
+        "bio": "<p>I am an organized web developer who went from utilizing web applications that could help clients speak, to wanting to code them. Formerly as a Speech Language Pathologist, it was my job to diagnose language disorders and devise a plan to help the client access the correct syntax to get their message across. Many of the clients I worked with were non-verbal and required some form of technology to communicate. I had a blast tackling the intricate challenges of configuring apps to specific users in order to teach them to communicate by text to speech buttons.</p>",
+        "github": "https://github.com/Alpttn",
+        "linkedIn": "https://www.linkedin.com/in/allisonpttn",
+        "portfolio": "https://alpttn.github.io/allison-patton",
+        "email": "allison.tpttn@gmail.com",
+        "proImg": "serious_photo.jpg",
+        "funImg": "funny_photo.png",
+        "isHired": true
+    },
+    {
+        "id": 2,
+        "firstName": "Julian",
+        "lastName": "Garcia",
+        "quote": "A ship in port is safe, but that's not what ships are built for. <br>- Grace Hopper",
+        "bio": "<p>I come to software development from a background in philosophy and education. Teaching at both the middle school and university levels afforded me great experience in leadership, collaboration and team building. Ultimately, I've decided to pursue software development to leverage my practical, creative and intellectual skills and interests. My love of learning and problem solving, along with my fascination with language and logic, have prepared me well for a career in a field that is always changing and expanding in new, exciting ways.</p>",
+        "github": "https://github.com/bennfos",
+        "linkedIn": "https://www.linkedin.com/in/bennett-foster",
+        "portfolio": "https://bennfos.github.io/bennett-foster",
+        "email": "bennfos@gmail.com",
+        "proImg": "BennettFoster.jpg",
+        "funImg": "BennettFoster_Fun.jpg",
+        "isHired": false
+    },
+    {
+        "id": 3,
+        "firstName": "Bobby",
+        "lastName": "Brady",
+        "quote": "You miss 100% of the shots you don't take.<br>- Michael Scott",
+        "bio": "<p>The power of modern computers has always fascinated me. From the old desktops I used in elementary school, to the powerful handheld smart phones of today; computers truly are magical. I first experienced writing code while in the US Navy. While simple, the code my platoon wrote helped guide Unmanned Underwater Vehicles to locate mines in the ocean. The power of this technology had me asking questions and the Nashville Software School has been there to provide answers. I look forward to my career as a Software Developer.</p>",
+        "github": "https://github.com/bobbybrady",
+        "linkedIn": "https://www.linkedin.com/in/bobbybrady/",
+        "portfolio": "",
+        "email": "bbrady91@gmail.com",
+        "proImg": "BobbyBrady.jpg",
+        "funImg": "BobbyBrady_Fun.jpg",
+        "isHired": true
+    },
+    {
+        "id": 4,
+        "firstName": "Lauren",
+        "lastName": "Riddle",
+        "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
+        "bio": "Before software development I was a fisheries biologist managing small impoundments and recreational fish populations. My interest in being a developer started when I took an online course learning HTML and CSS. My favorite aspects about software development are the continuous learning, being able to build something from scratch, and tinker with something that already exists.",
+        "email": "brantleyjones74@gmail.com",
+        "github": "https://github.com/brantleyjones74",
+        "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
+        "portfolio": "",
+        "proImg": "BrantleyJones.jpg",
+        "funImg": "BrantleyJones_Fun.jpg",
+        "isHired": true
+    }
+  ]
+}
