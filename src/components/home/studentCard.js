@@ -18,7 +18,7 @@ class StudentCard extends Component {
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
                     <p>Favorite quote: {this.props.student.quote}</p>
                     <div className="icon-container">
-                    <FontAwesomeIcon icon={faUserCircle} type="button" className="icons"/>
+                    {/* <FontAwesomeIcon icon={faUserCircle} type="button" className="icons"/> */}
                     <FontAwesomeIcon icon={faGlobe} type="button" className="icons"/>
                     <FontAwesomeIcon icon={faGithub} type="button" className="icons"/>
                     <FontAwesomeIcon icon={faLinkedin} type="button" className="icons"/>
