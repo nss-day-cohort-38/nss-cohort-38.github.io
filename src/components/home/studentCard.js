@@ -11,9 +11,12 @@ class StudentCard extends Component {
         return (
             <div className="card">
                 <div className="card-content">
-                    <picture>
-                        <img src={`../../images/students/${this.props.student.proImg}`} alt="student photo" />
-                    </picture>
+                    <div className="card-fx">
+                        {/* <picture> */}
+                            <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" />
+                            <img src={require(`../../images/students/${this.props.student.funImg}`)} class="student-fun-photo" />
+                        {/* </picture> */}
+                    </div>
 
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
                     <p>Favorite quote: {this.props.student.quote}</p>
