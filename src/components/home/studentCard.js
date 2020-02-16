@@ -12,7 +12,7 @@ class StudentCard extends Component {
             <div className="card">
                 <div className="card-content">
                     <picture>
-                        <img src={(`../../images/students/${this.props.student.proImg}`)} alt="student photo" />
+                        <img src={`../../images/students/${this.props.student.proImg}`} alt="student photo" />
                     </picture>
 
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
