@@ -1,8 +1,11 @@
 import React, { Component } from 'react'
 import classPhoto from './c36-class-photo-temporary.png'
 import './Home.css'
+import './About.css'
 import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
+import AboutUs from "./About"
+
 
 class Home extends Component {
   state = {
@@ -24,7 +27,7 @@ class Home extends Component {
     return (
       <>
         <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
-
+        <AboutUs/>
         <div className="container-cards">
         {this.state.students.map(student =>
           <StudentCard
