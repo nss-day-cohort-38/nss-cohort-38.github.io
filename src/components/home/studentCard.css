@@ -48,6 +48,24 @@ cursor: pointer;
 }
 
 img {
-width: 300px;
-height: 220px;
+width: 285px;
+height: 428px;
 }
+
+.card-fx {
+    /* width: 130px;
+    height: 195px; */
+    position: relative;
+    display: inline-block;
+    margin: 50px;
+  }
+  .card-fx .student-fun-photo {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+  }
+  .card-fx:hover .student-fun-photo {
+    display: inline;
+  }

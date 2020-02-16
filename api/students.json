@@ -24,8 +24,8 @@
         "linkedIn": "https://www.linkedin.com/in/bennett-foster",
         "portfolio": "https://bennfos.github.io/bennett-foster",
         "email": "bennfos@gmail.com",
-        "proImg": "BennettFoster.jpg",
-        "funImg": "BennettFoster_Fun.jpg",
+        "proImg": "sam_pita_serious.jpg",
+        "funImg": "sam_pita_funny.png",
         "isHired": false
     },
     {
@@ -38,8 +38,8 @@
         "linkedIn": "https://www.linkedin.com/in/bobbybrady/",
         "portfolio": "",
         "email": "bbrady91@gmail.com",
-        "proImg": "BobbyBrady.jpg",
-        "funImg": "BobbyBrady_Fun.jpg",
+        "proImg": "sam_pita_serious.jpg",
+        "funImg": "sam_pita_funny.png",
         "isHired": true
     },
     {
@@ -52,8 +52,8 @@
         "github": "https://github.com/brantleyjones74",
         "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
         "portfolio": "",
-        "proImg": "BrantleyJones.jpg",
-        "funImg": "BrantleyJones_Fun.jpg",
+        "proImg": "sam_pita_serious.jpg",
+        "funImg": "sam_pita_funny.png",
         "isHired": true
     }
   ]
