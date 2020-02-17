@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import { Link } from "react-router-dom";
 import './About.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin,  } from '@fortawesome/free-brands-svg-icons';
-import { faUserCircle, faGlobe, faEnvelope } from '@fortawesome/free-solid-svg-icons';
+// Author: Lauren Riddle
+// Purpose: To create the About Us component
 
 
 class AboutUs extends Component {
@@ -18,4 +16,4 @@ class AboutUs extends Component {
     }
 }
 
-        export default AboutUs;
+export default AboutUs;
