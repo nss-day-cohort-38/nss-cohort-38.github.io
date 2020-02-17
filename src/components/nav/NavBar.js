@@ -14,11 +14,11 @@ const NavBar = () => (
         </h1> */}
         <nav className="flex-item" id="navbar">
           <Navbar collapseOnSelect expand="lg" className="nav-width navbar-collapse">
-
+          <Navbar.Brand href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" >
               <ul className="container">
-                <Nav.Link className="nav-a" href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Nav.Link>
+                {/* <Nav.Link className="nav-a" href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Nav.Link> */}
                 <Nav.Link className="nav-a" href="#home">Home</Nav.Link>
                 <Nav.Link className="nav-a" href="#about">About</Nav.Link>
                 <Nav.Link className="nav-a" href="#devs">Developers</Nav.Link>

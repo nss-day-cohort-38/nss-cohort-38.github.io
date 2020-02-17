@@ -22,32 +22,25 @@ small {
     flex-basis: 100%;
   }
   
-  @media only screen and (max-width: 800px) {
-    
-    nav .container {
-      display: flex;
-      flex-direction: column;
-    }
+  nav .container {
+    display: flex;
+    margin-bottom: 0;
+    padding-right: 150px;
   }
-nav .container {
-  display: flex;
-  margin-bottom: 0;
-  padding-right: 150px;
-}
-
-nav .container li {
-  flex: 1;
-  padding: 10px;
-  text-align: center;
-  font-size: 1.5em;
-  color: rgb(28, 28, 28);
-  box-sizing: border-box;
-  background-color: none;
-  list-style-type: none;
-}
-.navbar-toggler {
-  text-align: right;
-}
+  
+  nav .container li {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    color: rgb(28, 28, 28);
+    box-sizing: border-box;
+    background-color: none;
+    list-style-type: none;
+  }
+  .navbar-toggler {
+    text-align: right;
+  }
   nav .container a {
     color: rgb(28, 28, 28);
   }
@@ -63,7 +56,7 @@ nav .container li {
     background-color: rgba(255, 255, 255, 0.479);
     width: 100%;
   }
-
+  
   .flexContainer2 {
     display: flex;
     align-items: left;
@@ -71,17 +64,29 @@ nav .container li {
     flex-wrap: wrap;
     
   }
-
-
+  
+  
   #classLogo {
     height: 100px;
     width: 100px;
   }
-
+  
   #navbar {
     position: absolute;
     z-index: 100;
     background-color: rgba(255, 255, 255, 0.705);
     width: 100%;
   }
-
+  
+  
+  @media only screen and (max-width: 800px) {
+    
+    nav .container {
+      display: flex;
+      flex-direction: column;
+    }
+    #classLogo {
+      height: 50px;
+      width: 50px;
+    }
+  }
