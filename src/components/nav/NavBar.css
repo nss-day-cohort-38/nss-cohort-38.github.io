@@ -53,10 +53,16 @@ small {
     display: flex;
     align-items: left;
     justify-content: center;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
   }
 
   #classLogo {
     height: 150px;
     width: 150px;
   }
+/* nav {
+  position: fixed;
+  top: 0;
+  width: 50%;
+  z-index: 1;
+ } */
