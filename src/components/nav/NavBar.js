@@ -8,10 +8,10 @@ const NavBar = () => (
         <div className="flexContainer">
           <img src={logo} alt="Cohort 36 Logo" id="classLogo"></img>
           <div className="flexContainer2">
-            <h1 className="site-title">Cohort 36<br />
+            <h1 className="site-title flex-item">Cohort 36<br />
               <small>Nashville Software School</small>
             </h1>
-            <nav id="navbar">
+            <nav className="flex-item" id="navbar">
               <ul className="container">
                 <li><a className="nav-a" href="#home">Home</a></li>
                 <li><a className="nav-a" href="#about">About</a></li>
