@@ -80,10 +80,13 @@ height: 428px;
   }
 .icon-container {
   display: flex;
+  flex-direction: row;
+  margin-left: .5em;
+  width: 340px;
   justify-content: center;
-  vertical-align: bottom;
-  /* position: absolute; */
-  bottom: -1;
+  align-items: flex-end;
+  margin-top: auto;
+  margin-bottom: .8em;
 
 }
 
