@@ -47,6 +47,10 @@ small {
     display: flex;
     align-items: left;
     justify-content: center;
+    position: fixed;
+    z-index: +2;
+    background-color: white;
+    width: 100%;
   }
 
   .flexContainer2 {
