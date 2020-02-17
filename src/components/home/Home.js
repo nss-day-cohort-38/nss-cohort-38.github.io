@@ -5,6 +5,7 @@ import './About.css'
 import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
+import Technologies from './Technologies'
 
 
 class Home extends Component {
@@ -36,6 +37,7 @@ class Home extends Component {
           />
         )}
         </div>
+        <Technologies/>
       </>
     )
   }

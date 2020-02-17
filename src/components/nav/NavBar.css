@@ -1,62 +1,62 @@
 small {
     font-size: 75%;
-  }
-  
-  header {
-    margin-top: none;
-    padding-top: none;
-    background-color:none;
-    border: none;
-  }
-  
-  .site-title {
-    color: rgb(28, 28, 28);
-    text-align: center;
-    margin: 0;
-    flex-grow: 2;
-    padding-top: 10px;
-    padding-right: 150px;
-  }
-  
-  nav .container {
-    display: flex;
-    margin-bottom: 0;
-    padding-right: 150px;
-  }
-  
-  nav .container li {
-    flex: 1;
-    padding: 10px;
-    text-align: center;
-    font-size: 1.5em;
-    color: rgb(28, 28, 28);
-    box-sizing: border-box;
-    background-color: none;
-    list-style-type: none;
-  }
-  
-  nav .container a {
-    color: rgb(28, 28, 28);
-  }
-  
-  nav .container a:hover {
-    color: orangered;
-  }
+}
 
-  .flexContainer {
-    display: flex;
-    align-items: left;
-    justify-content: center;
-  }
+header {
+  margin-top: none;
+  padding-top: none;
+  background-color:none;
+  border: none;
+}
 
-  .flexContainer2 {
-    display: flex;
-    align-items: left;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
+.site-title {
+  color: rgb(28, 28, 28);
+  text-align: center;
+  margin: 0;
+  flex-grow: 2;
+  padding-top: 10px;
+  padding-right: 150px;
+}
 
-  #classLogo {
-    height: 150px;
-    width: 150px;
-  }
+nav .container {
+  display: flex;
+  margin-bottom: 0;
+  padding-right: 150px;
+}
+
+nav .container li {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.5em;
+  color: rgb(28, 28, 28);
+  box-sizing: border-box;
+  background-color: none;
+  list-style-type: none;
+}
+
+nav .container a {
+  color: rgb(28, 28, 28);
+}
+
+nav .container a:hover {
+  color: orangered;
+}
+
+.flexContainer {
+  display: flex;
+  align-items: left;
+  justify-content: center;
+}
+
+.flexContainer2 {
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#classLogo {
+  height: 150px;
+  width: 150px;
+}
