@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import classPhoto from './class_photo.png'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './Home.css'
 import './About.css'
+import "./studentCard.css"
 import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
