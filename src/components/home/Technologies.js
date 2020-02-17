@@ -44,14 +44,6 @@ class Technologies extends Component {
                                 <div className="technologyText">CSS3</div>
                         </div>
                         <div className="cardContainer">
-                            <img className="techImage" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="Material UI Icon"></img>
-                                <div className="technologyText">Material UI</div>
-                        </div>
-                        <div className="cardContainer">
-                            <img className="techImage" src="https://react.semantic-ui.com/logo.png" alt="Semantic UI Icon"></img>
-                                <div className="technologyText">Semantic UI</div>
-                        </div>
-                        <div className="cardContainer">
                             <img className="techImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="Bootstrap Icon"></img>
                                 <div className="technologyText">Bootstrap</div>
                         </div>
