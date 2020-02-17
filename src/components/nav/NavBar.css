@@ -17,6 +17,10 @@ small {
     padding-top: 10px;
     padding-right: 150px;
   }
+
+  .flex-item {
+    flex-basis: 100%;
+  }
   
   nav .container {
     display: flex;
@@ -53,7 +57,7 @@ small {
     display: flex;
     align-items: left;
     justify-content: center;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
   }
 
   #classLogo {
