@@ -13,10 +13,10 @@ const NavBar = () => (
           <small>Nashville Software School</small>
         </h1> */}
         <nav className="flex-item" id="navbar">
-          <Navbar expand="lg" className="nav-width">
+          <Navbar collapseOnSelect expand="lg" className="nav-width navbar-collapse">
 
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav">
+            <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+            <Navbar.Collapse id="responsive-navbar-nav" >
               <ul className="container">
                 <Nav.Link className="nav-a" href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Nav.Link>
                 <Nav.Link className="nav-a" href="#home">Home</Nav.Link>

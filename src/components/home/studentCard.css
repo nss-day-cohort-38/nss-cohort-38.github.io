@@ -81,6 +81,8 @@ height: 428px;
 .icon-container {
   display: flex;
   justify-content: center;
+  vertical-align: bottom;
+
 }
 
 .icons {
