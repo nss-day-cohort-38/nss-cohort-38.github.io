@@ -8,7 +8,9 @@ class ClassWebsite extends Component {
   render() {
     return (
       <>
-        <NavBar />
+        <section id="home">
+          <NavBar />
+        </section>
         <ApplicationViews />
       </>
     )
