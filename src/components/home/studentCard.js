@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import "./studentCard.css"
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import { faUserCircle } from '@fortawesome/free-solid-svg-icons';
+import { faGithub, faLinkedin,  } from '@fortawesome/free-brands-svg-icons';
+import { faUserCircle, faGlobe, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 
 class StudentCard extends Component {
@@ -20,9 +20,13 @@ class StudentCard extends Component {
 
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
                     <p>Favorite quote: {this.props.student.quote}</p>
-                    <FontAwesomeIcon icon={faUserCircle} type="button" />
-                    <FontAwesomeIcon icon={faGithub} type="button" />
-                    <FontAwesomeIcon icon={faLinkedin} type="button" />
+                    <div className="icon-container">
+                    {/* <FontAwesomeIcon icon={faUserCircle} type="button" className="icons"/> */}
+                    <FontAwesomeIcon icon={faGlobe} type="button" className="icons"/>
+                    <FontAwesomeIcon icon={faGithub} type="button" className="icons"/>
+                    <FontAwesomeIcon icon={faLinkedin} type="button" className="icons"/>
+                    <FontAwesomeIcon icon={faEnvelope} type="button" className="icons"/>
+                    </div>
                 </div>
             </div>
         )
