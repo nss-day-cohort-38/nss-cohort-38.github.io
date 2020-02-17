@@ -9,7 +9,7 @@ import { faUserCircle, faGlobe, faEnvelope } from '@fortawesome/free-solid-svg-i
 class StudentCard extends Component {
     render() {
         return (
-            <div className="card">
+            <div className="student-card">
                 <div className="card-content">
                     <div className="card-fx">
                         {/* <picture> */}
@@ -21,11 +21,10 @@ class StudentCard extends Component {
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
                     <p>Favorite quote: {this.props.student.quote} -{this.props.student.quoteAuthor}</p>
                     <div className="icon-container">
-                    {/* <FontAwesomeIcon icon={faUserCircle} type="button" className="icons"/> */}
-                    <FontAwesomeIcon icon={faGlobe} type="button" className="icons"/>
-                    <FontAwesomeIcon icon={faGithub} type="button" className="icons"/>
-                    <FontAwesomeIcon icon={faLinkedin} type="button" className="icons"/>
-                    <FontAwesomeIcon icon={faEnvelope} type="button" className="icons"/>
+                    <a href={`${this.props.student.portfolio}`} target="_blank"><FontAwesomeIcon icon={faGlobe}  className="icons" fill="none"/></a>
+                    <a href={`${this.props.student.github}`} target="_blank"><FontAwesomeIcon icon={faGithub}  className="icons"/></a>
+                    <a href={`${this.props.student.linkedIn}`} target="_blank"><FontAwesomeIcon icon={faLinkedin}  className="icons"/></a>
+                    <a href={`mailto:${this.props.student.email}`}><FontAwesomeIcon icon={faEnvelope}  className="icons"/></a>
                     </div>
                 </div>
             </div>

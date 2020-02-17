@@ -4,7 +4,8 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.card {
+.student-card {
+    /* Add shadows to create the "card" effect */
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -12,7 +13,10 @@ body {
     background: aliceblue;
     margin-bottom: 2em;
     flex: 0 1 24%;
+    text-align: center;
+
 }
+
 
 .card-content {
 padding: .5em;
@@ -59,19 +63,32 @@ height: 428px;
 }
 
 .card-fx {
-    /* width: 130px;
-    height: 195px; */
-    position: relative;
-    display: inline-block;
-    margin: 50px;
-  }
-  .card-fx .student-fun-photo {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 99;
-  }
-  .card-fx:hover .student-fun-photo {
-    display: inline;
-  }
+  /* width: 130px;
+  height: 195px; */
+  position: relative;
+  display: inline-block;
+  margin: 50px;
+}
+.card-fx .student-fun-photo {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.card-fx:hover .student-fun-photo {
+  display: inline;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.icons {
+  margin: 10px;
+  font-size: 30px;
+  background-color: aliceblue;
+}
