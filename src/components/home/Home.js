@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import classPhoto from './c36-class-photo-temporary.png'
+import classPhoto from './class_photo.png'
 import './Home.css'
 import './About.css'
 import ApiManager from '../../modules/ApiManager'
