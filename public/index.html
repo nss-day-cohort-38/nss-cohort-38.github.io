@@ -41,9 +41,19 @@
     -->
    
     <script>
-        $('.navbar-collapse a').click(function(){
-            $(".navbar-collapse").collapse('hide');
-        });
+        // Menu opacity
+    if ($(window).scrollTop() > 80) {
+        $(".navbar-fixed-top").addClass("bg-nav");
+    } else {
+        $(".navbar-fixed-top").removeClass("bg-nav");
+    }
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > 80) {
+            $(".navbar-fixed-top").addClass("bg-nav");
+        } else {
+            $(".navbar-fixed-top").removeClass("bg-nav");
+        }
+    });
     </script>
   </body>
 </html>
