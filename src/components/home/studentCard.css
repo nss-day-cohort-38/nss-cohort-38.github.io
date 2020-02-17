@@ -11,7 +11,7 @@ body {
     border-radius: 5px; /* 5px rounded corners */
     background: aliceblue;
     margin-bottom: 2em;
-    flex: 0 1 10%;
+    flex: 0 1 25%;
     /* justify-content: space-between; */
     text-align: center;
 
