@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import classPhoto from './c36-class-photo-temporary.png'
+import classPhoto from './class_photo.png'
 import './Home.css'
 import './About.css'
 import ApiManager from '../../modules/ApiManager'
@@ -23,7 +23,6 @@ class Home extends Component {
   }
 
   render() {
-    console.log("this.state", this.state)
     return (
       <>
         <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
