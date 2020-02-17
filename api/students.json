@@ -10,8 +10,8 @@
       "linkedIn": "",
       "portfolio": "",
       "email": "",
-      "proImg": "jeremiah_serious.jpg",
-      "funImg": "jeremiah_fun.jpg",
+      "proImg": "jeremiah_serious.png",
+      "funImg": "jeremiah_fun.png",
       "isHired": false
     },
     {
@@ -24,8 +24,8 @@
       "linkedIn": "https://www.linkedin.com/in/ryandanielbishop/",
       "portfolio": "https://rdbishop19.github.io/",
       "email": "rdbishop06@gmail.com",
-      "proImg": "ryan_bishop_serious.jpg",
-      "funImg": "ryan_bishop_fun.jpg",
+      "proImg": "ryan_bishop_serious.png",
+      "funImg": "ryan_bishop_fun.png",
       "isHired": false
     },
     {
@@ -38,8 +38,8 @@
       "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
       "portfolio": "https://matthewblagg.github.io/",
       "email": "matthewscottblagg@gmail.com",
-      "proImg": "matt_serious.jpg",
-      "funImg": "matt_fun.jpg",
+      "proImg": "matthew_serious.png",
+      "funImg": "matthew_fun.png",
       "isHired": false
     },
     {
@@ -52,8 +52,8 @@
       "github": "https://github.com/CassieBoyd",
       "linkedIn": "https://www.linkedin.com/in/cassandra-boyd/",
       "portfolio": "https://cassieboyd.github.io/",
-      "proImg": "cassie_serious.jpg",
-      "funImg": "cassie_fun.jpg",
+      "proImg": "cassandra_serious.png",
+      "funImg": "cassandra_fun.png",
       "isHired": false
     },
     {
@@ -66,19 +66,19 @@
       "github": "https://github.com/klb417",
       "linkedIn": "https://www.linkedin.com/in/kenneth-lee-boyd/",
       "portfolio": "",
-      "proImg": "ken_serious.jpg",
-      "funImg": "ken_fun.jpg",
+      "proImg": "kenneth_serious.png",
+      "funImg": "kenneth_fun.png",
       "isHired": false
     },
     {
       "id": 6,
       "firstName": "Caroline",
       "lastName": "Brownlee",
-      "quote": "",
-      "quoteAuthor": "",
-      "email": "",
-      "github": "",
-      "linkedIn": "",
+      "quote": "Instructions for living a life. Pay attention. Be astonished. Tell about it.",
+      "quoteAuthor": "Mary Oliver",
+      "email": "brownleecaroline@gmail.com",
+      "github": "https://github.com/CarolineBrownlee",
+      "linkedIn": "https://www.linkedin.com/in/caroline-brownlee/",
       "portfolio": "",
       "proImg": "",
       "funImg": "",
@@ -94,8 +94,8 @@
       "github": "https://github.com/manilabui",
       "linkedIn": "https://www.linkedin.com/in/manilabui/",
       "portfolio": "https://manilabui.com/",
-      "proImg": "manila_serious.jpg",
-      "funImg": "manila_fun.jpg",
+      "proImg": "manila_serious.png",
+      "funImg": "manila_fun.png",
       "isHired": false
     },
     {
@@ -108,8 +108,8 @@
       "github": "https://github.com/ajbyrd",
       "linkedIn": "https://www.linkedin.com/in/adambyrd0723/",
       "portfolio": "https://ajbyrd.github.io/adambyrd/",
-      "proImg": "adam_serious.jpg",
-      "funImg": "adam_fun.jpg",
+      "proImg": "adam_serious.png",
+      "funImg": "adam_fun.png",
       "isHired": false
     },
     {
@@ -122,8 +122,8 @@
       "github": "https://github.com/chapmanjamesg",
       "linkedIn": "https://www.linkedin.com/in/james-g-chapman/",
       "portfolio": "https://chapmanjamesg.github.io/",
-      "proImg": "james_serious.jpg",
-      "funImg": "james_fun.jpg",
+      "proImg": "james_serious.png",
+      "funImg": "james_fun.png",
       "isHired": false
     },
     {
@@ -136,8 +136,8 @@
       "github": "https://github.com/schatfield",
       "linkedIn": "https://www.linkedin.com/in/shawna-chatfield/",
       "portfolio": "https://shawnachatfield.github.io/",
-      "proImg": "shawna_serious.jpg",
-      "funImg": "shawna_fun.jpg",
+      "proImg": "shawna_serious.png",
+      "funImg": "shawna_fun.png",
       "isHired": false
     },
     {
@@ -150,8 +150,8 @@
       "github": "https://github.com/cherkesky",
       "linkedIn": "https://www.linkedin.com/in/cherkesky/",
       "portfolio": "https://www.cherkesky.com",
-      "proImg": "guy_serious.jpg",
-      "funImg": "guy_fun.jpg",
+      "proImg": "guy_serious.png",
+      "funImg": "guy_fun.png",
       "isHired": false
     },
     {
@@ -164,8 +164,8 @@
       "github": "https://github.com/RyanCrowleyCode",
       "linkedIn": "https://www.linkedin.com/in/ryancrowley03/",
       "portfolio": "https://ryancrowleycode.github.io/",
-      "proImg": "ryan_crowley_serious.jpg",
-      "funImg": "ryan_crowley_fun.jpg",
+      "proImg": "ryan_crowley_serious.png",
+      "funImg": "ryan_crowley_fun.png",
       "isHired": false
     },
     {
@@ -178,8 +178,8 @@
       "github": "https://github.com/rhc822/",
       "linkedIn": "https://linkedin.com/in/rhc822",
       "portfolio": "https://rhc822.github.io/",
-      "proImg": "ryan_cunningham_serious.jpg",
-      "funImg": "ryan_cunningham_serious.jpg",
+      "proImg": "ryan_cunningham_serious.png",
+      "funImg": "ryan_cunningham_serious.png",
       "isHired": false
     },
     {
@@ -192,8 +192,8 @@
       "github": "https://github.com/chase-fite",
       "linkedIn": "https://www.linkedin.com/in/chase-fite/",
       "portfolio": "https://github.com/chase-fite",
-      "proImg": "chase_serious.jpg",
-      "funImg": "chase_serious.jpg",
+      "proImg": "chase_serious.png",
+      "funImg": "chase_serious.png",
       "isHired": false
     },
     {
@@ -206,8 +206,8 @@
       "github": "https://github.com/Garcia-Julz",
       "linkedIn": "https://www.linkedin.com/in/julian-garcia/",
       "portfolio": "",
-      "proImg": "julian_serious.jpg",
-      "funImg": "julian_fun.jpg",
+      "proImg": "julian_serious.png",
+      "funImg": "julian_fun.png",
       "isHired": false
     },
     {
@@ -220,8 +220,8 @@
       "github": "https://github.com/corri-golden",
       "linkedIn": "https://www.linkedin.com/in/corri-golden/",
       "portfolio": "https://corri-golden.github.io/",
-      "proImg": "corri_serious.jpg",
-      "funImg": "corri_fun.jpg",
+      "proImg": "corri_serious.png",
+      "funImg": "corri_fun.png",
       "isHired": false
     },
     {
@@ -234,8 +234,8 @@
       "github": "sophiahoffman@hotmail.com",
       "linkedIn": "https://www.linkedin.com/in/sophia-hoffman/",
       "portfolio": "",
-      "proImg": "sophia_serious.jpg",
-      "funImg": "sophia_fun.jpg",
+      "proImg": "sophia_serious.png",
+      "funImg": "sophia_fun.png",
       "isHired": false
     },
     {
@@ -248,8 +248,8 @@
       "github": "https://github.com/CPJackson777",
       "linkedIn": "https://www.linkedin.com/in/charlespjackson/",
       "portfolio": "http://cpjackson777.github.io/",
-      "proImg": "charles_serious.jpg",
-      "funImg": "charles_fun.jpg",
+      "proImg": "charles_serious.png",
+      "funImg": "charles_fun.png",
       "isHired": false
     },
     {
@@ -262,8 +262,8 @@
       "github": "https://github.com/stitchelle",
       "linkedIn": "https://www.linkedin.com/in/stitchelle/",
       "portfolio": "",
-      "proImg": "michelle_serious.jpg",
-      "funImg": "michelle_fun.jpg",
+      "proImg": "michelle_serious.png",
+      "funImg": "michelle_fun.png",
       "isHired": false
     },
     {
@@ -276,8 +276,8 @@
       "github": "https://github.com/JohnALong",
       "linkedIn": "https://www.linkedin.com/in/john-a-long/",
       "portfolio": "https://johnandrewlong.com",
-      "proImg": "john_serious.jpg",
-      "funImg": "john_fun.jpg",
+      "proImg": "john_serious.png",
+      "funImg": "john_fun.png",
       "isHired": false
     },
     {
@@ -290,8 +290,8 @@
       "github": "https://github.com/jesieOldenburg",
       "linkedIn": "https://www.linkedin.com/in/jesieoldenburg/",
       "portfolio": "https://jesieoldenburg.github.io/",
-      "proImg": "jesie_serious.jpg",
-      "funImg": "jesie_serious.jpg",
+      "proImg": "jesie_serious.png",
+      "funImg": "jesie_serious.png",
       "isHired": false
     },
     {
@@ -304,8 +304,8 @@
       "github": "https://github.com/sullypierce",
       "linkedIn": "https://www.linkedin.com/in/sullivan-pierce/",
       "portfolio": "http://sullypierce.github.io/",
-      "proImg": "sully_serious.jpg",
-      "funImg": "sully_fun.jpg",
+      "proImg": "sullivan_serious.png",
+      "funImg": "sullivan_fun.png",
       "isHired": false
     },
     {
@@ -318,92 +318,92 @@
       "github": "https://github.com/christianpippin98",
       "linkedIn": "https://www.linkedin.com/in/christianpippin98/",
       "portfolio": "",
-      "proImg": "christian_serious.jpg",
-      "funImg": "christian_fun.jpg",
+      "proImg": "christian_serious.png",
+      "funImg": "christian_fun.png",
       "isHired": false
     },
     {
       "id": 24,
       "firstName": "Sam",
       "lastName": "Pita",
-      "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
-      "quoteAuthor": "",
-      "email": "brantleyjones74@gmail.com",
-      "github": "https://github.com/brantleyjones74",
-      "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
-      "portfolio": "",
-      "proImg": "BrantleyJones.jpg",
-      "funImg": "BrantleyJones_Fun.jpg",
+      "quote": "Why, sometimes I've believed as many as six impossible things before breakfast.",
+      "quoteAuthor": "Alice in Wonderland",
+      "email": "samanthakpita@gmail.com",
+      "github": "https://github.com/sampita",
+      "linkedIn": "https://www.linkedin.com/in/samanthapita/",
+      "portfolio": "https://sampita.github.io/",
+      "proImg": "sam_serious.png",
+      "funImg": "sam_fun.png",
       "isHired": true
     },
     {
       "id": 25,
       "firstName": "Erin",
       "lastName": "Polley",
-      "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
-      "quoteAuthor": "",
-      "email": "brantleyjones74@gmail.com",
-      "github": "https://github.com/brantleyjones74",
-      "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
-      "portfolio": "",
-      "proImg": "BrantleyJones.jpg",
-      "funImg": "BrantleyJones_Fun.jpg",
+      "quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.",
+      "quoteAuthor": "J.K. Rowling",
+      "email": "erinepolley@gmail.com",
+      "github": "https://github.com/erinepolley",
+      "linkedIn": "https://www.linkedin.com/in/erinepolley/",
+      "portfolio": "https://erinepolley.github.io/",
+      "proImg": "erin_serious.png",
+      "funImg": "erin_fun.png",
       "isHired": false
     },
     {
       "id": 26,
       "firstName": "Lauren",
       "lastName": "Riddle",
-      "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
-      "quoteAuthor": "",
-      "email": "brantleyjones74@gmail.com",
-      "github": "https://github.com/brantleyjones74",
-      "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
-      "portfolio": "",
-      "proImg": "BrantleyJones.jpg",
-      "funImg": "BrantleyJones_Fun.jpg",
+      "quote": "No one has ever become poor by giving.",
+      "quoteAuthor": "Anne Frank",
+      "email": "lari7132@gmail.com",
+      "github": "https://github.com/laurenriddle",
+      "linkedIn": "https://www.linkedin.com/in/lauren-riddle/",
+      "portfolio": "https://laurenriddle.github.io/laurenriddle/",
+      "proImg": "lauren_serious.png",
+      "funImg": "lauren_fun.png",
       "isHired": false
     },
     {
       "id": 27,
       "firstName": "Melody",
       "lastName": "Stern",
-      "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
-      "quoteAuthor": "",
-      "email": "brantleyjones74@gmail.com",
-      "github": "https://github.com/brantleyjones74",
-      "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
+      "quote": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming.",
+      "quoteAuthor": "Theodore Roosevelt",
+      "email": "melody@melodystern.com",
+      "github": "http://www.github.com/melliemuse",
+      "linkedIn": "http://www.linkedin.com/melodystern",
       "portfolio": "",
-      "proImg": "BrantleyJones.jpg",
-      "funImg": "BrantleyJones_Fun.jpg",
+      "proImg": "melody_serious.png",
+      "funImg": "melody_fun.png",
       "isHired": false
     },
     {
       "id": 28,
       "firstName": "Trey",
       "lastName": "Suiter",
-      "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
-      "quoteAuthor": "",
-      "email": "brantleyjones74@gmail.com",
-      "github": "https://github.com/brantleyjones74",
-      "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
-      "portfolio": "",
-      "proImg": "BrantleyJones.jpg",
-      "funImg": "BrantleyJones_Fun.jpg",
+      "quote": "No such thing as spare time, no such thing as free time, no such thing as down time. All you got is lifetime. Go.",
+      "quoteAuthor": "Henry Rollins",
+      "email": "trey.suiter@gmail.com",
+      "github": "https://github.com/treysuiter",
+      "linkedIn": "https://www.linkedin.com/in/treysuiter/",
+      "portfolio": "https://treysuiter.github.io/",
+      "proImg": "trey_serious.png",
+      "funImg": "trey_fun.png",
       "isHired": false
     },
     {
       "id": 29,
       "firstName": "Joseph",
       "lastName": "Walker",
-      "quote": "I have waited a long time for this moment, my little green friend.<br>- Sheev Palpatine",
+      "quote": "",
       "quoteAuthor": "",
-      "email": "brantleyjones74@gmail.com",
-      "github": "https://github.com/brantleyjones74",
-      "linkedIn": "https://www.linkedin.com/in/brantleyjones74",
+      "email": "",
+      "github": "",
+      "linkedIn": "",
       "portfolio": "",
-      "proImg": "BrantleyJones.jpg",
-      "funImg": "BrantleyJones_Fun.jpg",
+      "proImg": "joseph_serious.png",
+      "funImg": "joseph_fun.png",
       "isHired": false
     }
   ]

@@ -23,7 +23,6 @@ class Home extends Component {
   }
 
   render() {
-    console.log("this.state", this.state)
     return (
       <>
         <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
