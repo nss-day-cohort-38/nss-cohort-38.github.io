@@ -11,7 +11,8 @@ body {
     border-radius: 5px; /* 5px rounded corners */
     background: aliceblue;
     margin-bottom: 2em;
-    flex: 0 1 24%;
+    flex: 0 1 10%;
+    /* justify-content: space-between; */
     text-align: center;
 
 }
@@ -65,7 +66,7 @@ height: 428px;
     height: 195px; */
     position: relative;
     display: inline-block;
-    margin: 50px;
+    margin: 0px;
   }
   .card-fx .student-fun-photo {
     display: none;
