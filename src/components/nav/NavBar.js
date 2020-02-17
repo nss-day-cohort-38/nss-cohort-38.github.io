@@ -11,13 +11,13 @@ const NavBar = () => (
             <h1 className="site-title">Cohort 36<br />
               <small>Nashville Software School</small>
             </h1>
-            <nav>
+            <nav id="navbar">
               <ul className="container">
-                <li><Link className="nav-link" to="/">Home</Link></li>
-                <li><Link className="nav-link" to="/locations">About</Link></li>
-                <li><Link className="nav-link" to="/animals">Developers</Link></li>
-                <li><Link className="nav-link" to="/employees">Technologies</Link></li>
-                <li><Link className="nav-link" to="/owners">Thanks</Link></li>
+                <li><a className="nav-a" href="#home">Home</a></li>
+                <li><a className="nav-a" href="#about">About</a></li>
+                <li><a className="nav-a" href="#devs">Developers</a></li>
+                <li><a className="nav-a" href="#tech">Technologies</a></li>
+                <li><a className="nav-a" href="#thanks">Thanks</a></li>
               </ul>
             </nav>
             </div>

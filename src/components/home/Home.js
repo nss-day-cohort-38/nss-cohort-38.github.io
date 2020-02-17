@@ -26,9 +26,14 @@ class Home extends Component {
   render() {
     return (
       <>
+        <section id="home">
         <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
+        </section>
+        <section id="about">
         <AboutUs/>
-        <div className="container-cards">
+        </section>
+        
+        <div id="devs" className="container-cards">
         {this.state.students.map(student =>
           <StudentCard
             key={student.id}
@@ -37,7 +42,10 @@ class Home extends Component {
           />
         )}
         </div>
+        <section id="tech">
         <Technologies/>
+        </section>
+        <section id="thanks"></section>
       </>
     )
   }
