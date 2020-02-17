@@ -4,3 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Contributors:
 Caroline Brownlee, Julian Garcia, Sam Pita, Lauren Riddle
+
+Class Logo Designed By:
+Guy Cherkesky

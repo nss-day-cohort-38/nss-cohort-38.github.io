@@ -12,12 +12,20 @@ small {
   .site-title {
     color: rgb(28, 28, 28);
     text-align: center;
+    margin: 0;
+    flex-grow: 2;
+    padding-top: 10px;
+    /* padding-right: 150px; */
+  }
+
+  .flex-item {
+    flex-basis: 100%;
   }
   
   nav .container {
     display: flex;
-    padding: 0;
     margin-bottom: 0;
+    padding-right: 150px;
   }
   
   nav .container li {
@@ -30,11 +38,55 @@ small {
     background-color: none;
     list-style-type: none;
   }
-  
+  .navbar-toggler {
+    text-align: right;
+  }
   nav .container a {
     color: rgb(28, 28, 28);
   }
   
   nav .container a:hover {
     color: orangered;
+  }
+  .flexContainer {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    
+    background-color: rgba(255, 255, 255, 0.479);
+    width: 100%;
+  }
+  
+  .flexContainer2 {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+  }
+  
+  
+  #classLogo {
+    height: 100px;
+    width: 100px;
+  }
+  
+  #navbar {
+    position: absolute;
+    z-index: 100;
+    background-color: rgba(255, 255, 255, 0.705);
+    width: 100%;
+  }
+  
+  
+  @media only screen and (max-width: 800px) {
+    
+    nav .container {
+      display: flex;
+      flex-direction: column;
+    }
+    #classLogo {
+      height: 50px;
+      width: 50px;
+    }
   }

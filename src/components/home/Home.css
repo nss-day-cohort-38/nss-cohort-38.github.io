@@ -1,11 +1,11 @@
-#homeAddress {
-    margin-top: 5%;
-    font-weight: bold;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
 }
 
 #homeImage {
     width: 100%;
     height: auto;
     border: none;
-    margin-bottom: 80px;
 }
