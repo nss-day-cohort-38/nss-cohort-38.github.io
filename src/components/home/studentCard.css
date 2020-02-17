@@ -82,6 +82,8 @@ height: 428px;
   display: flex;
   justify-content: center;
   vertical-align: bottom;
+  /* position: absolute; */
+  bottom: -1;
 
 }
 

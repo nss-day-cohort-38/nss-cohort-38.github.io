@@ -23,7 +23,7 @@ class StudentCard extends Component {
                     <div className="icon-container">
                     <a href={`${this.props.student.portfolio}`} target="_blank"><FontAwesomeIcon icon={faGlobe}  className="icons" fill="none"/></a>
                     <a href={`${this.props.student.github}`} target="_blank"><FontAwesomeIcon icon={faGithub}  className="icons"/></a>
-                    <a href={`${this.props.student.linkedin}`} target="_blank"><FontAwesomeIcon icon={faLinkedin}  className="icons"/></a>
+                    <a href={`${this.props.student.linkedIn}`} target="_blank"><FontAwesomeIcon icon={faLinkedin}  className="icons"/></a>
                     <a href={`mailto:${this.props.student.email}`}><FontAwesomeIcon icon={faEnvelope}  className="icons"/></a>
                     </div>
                 </div>
