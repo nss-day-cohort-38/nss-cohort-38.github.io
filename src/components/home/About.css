@@ -11,3 +11,15 @@
 .about-paragraph {
     font-size: 20px;
 }
+
+.charater-traits-yellow {
+    color: #ffc86c;
+    font-weight: bolder;
+    font-size: larger;
+}
+.charater-traits-blue {
+    color: #4e8098;
+    font-weight: bolder;
+    font-size: larger;
+
+}
