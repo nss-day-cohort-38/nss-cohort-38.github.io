@@ -5,20 +5,49 @@ import './Thanks.css'
 
 
 const Thanks = () => (
-            <>
-            <br />
-            <br />
-            <section className="about-us">
-                <h1 className="hello">Meet Cohort 36!</h1>
-                
-                <p className="about-paragraph">We are a diverse array of people from many different industries. Our work experience includes that of military veterans, writers, musicians, IT professionals, graphic designers, medics, food service professionals, salespeople, librarians, stay-at-home moms, and more. We come from different backgrounds, but we all have something in common. We are a <span className="charater-traits-yellow">passionate, hardworking, problem solving, meme making</span> group of people who came together for the experience of a lifetime.<br /><br />Six months ago, we set out to conquer ReactJS, JavaScript, Python, and Django. Throughout our journey, we laughed together, failed together, triumphed together, learned how to learn together, and we became family. We have grown not only as developers, but also as humans, realizing that the sky is the limit if you have <span className="charater-traits-blue">determination</span> and an <span className="charater-traits-blue">endless thirst for learning</span>. Now we are ready to channel our passion for software development into jobs where we can continue learning and making a difference.</p><br/>
-                <h3>We are software developers. </h3><br/><h2>We are Cohort 36.</h2>
+    <>
+        <br />
+        <br />
+        <section className="about-us">
+            <h1 className="hello">Thank You</h1>
 
-            </section>
-            <br />
-            <br />
-            <br />
-            </>
-        )
+            <p className="about-paragraph">
+                To John Wark, <br />
+                Founder of Nashville Software School <br />
+                <br />
+                Thank you so much for creating this opportunity for us to change our lives. Nashville Software School is much more than just a school. It's an amazing, supportive community that embraces each student with the strength and care of a mother determined to see her children succeed.
+                We know you run a tight ship as a non-profit, yet you and your team still manage to carefully craft each detail of our experience and prepare us more than we could have ever imagined. <br />
+                <br />
+                To Our Instructors, <br />
+                Jisie and Joe <br />
+                <br />
+                Thank you for so eloquently and happily sharing your knowledge with us during these last 6 months. The curriculum could get intense and fast-paced at times, but your humor and dedication to making sure each student had a certain level of understanding made the learning process so enjoyable (and even funny, at times!). Words can't express how much we will miss being in your class every day.<br />
+                <br />
+                <br />
+                To Our Junior Instructors and Teaching Assistants, <br />
+                Kristen, Rose, and Jenna <br />
+                <br />
+                We would not have made it through this program without asking you guys a million questions! Thank you for helping guide us and reassure us along this road.<br />
+                <br />
+                <br />
+                To Our Career Development Team, <br />
+                Ashley and Kristin <br />
+                <br />
+                You are truly superheroes. You are a powerhouse duo that exemplifies how the size of the team does not matter nearly as much as the quality of the people on your team. Thank you for using your superhero magic to turn us into the best, graduate-ready packages we can be. We appreciate the long hours you spent with us, from resume feedback to interview prep to pep talks. <a href="https://www.youtube.com/watch?v=0iAzMRKFX3c" target="_blank">*cue "Wing Beneath My Wings" by Bette Midler*</a><br />
+                <br />
+                <br />
+                Lastly, <br />
+                Fellow Cohort 36 Classmates <br />
+                <br />
+                This bootcamp was even more amazing because of the people we experienced it with. Cohort 36 is made up of wonderful people of the highest caliber. We supported each other through every trial and tribulation. We laughed together when we got stuck. We went out after class and karaoke'd to celebrate little wins. We are always here for each other, even in our post-NSS careers, and that makes it so much better.<br />
+                <br />
+                </p><br />
+
+        </section>
+        <br />
+        <br />
+        <br />
+    </>
+)
 
 export default Thanks;
