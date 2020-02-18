@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import classPhoto from './class_photo.png'
+import classPhoto from './class_photo_gradient.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Home.css'
 import './About.css'
