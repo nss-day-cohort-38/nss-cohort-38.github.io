@@ -62,6 +62,7 @@ cursor: pointer;
 width: 285px;
 height: 428px;
 border-radius: 1em;
+z-index: 2;
 
 }
 
@@ -100,5 +101,33 @@ border-radius: 1em;
 
 .student-name {
   color: rgb(241, 239, 239);
+}
 
+#hiredLabel {
+  margin-bottom: 0;
+  /* width: 25.3%; */
+  height: 50px;
+  border-radius: .43em .43em 0 0;
+  background-color: rgb(221, 41, 1);
+  background-image: linear-gradient(to right, rgb(221, 41, 1), rgb(235, 87, 8));
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  /* z-index: 97; */
+  /* position: absolute; */
+}
+
+#hiredText, #availableText {
+  margin-left: 10px;
+}
+
+#availableLabel {
+  margin-bottom: 0;
+  height: 50px;
+  border-radius: .43em .43em 0 0;
+  background-color: green;
+  /* background-image: linear-gradient(to right, rgb(42, 122, 208), rgb(25, 79, 255)); */
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
 }
