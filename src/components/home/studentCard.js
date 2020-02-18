@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin,  } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe, faEnvelope } from '@fortawesome/free-solid-svg-icons';
-// import { Badge } from "react-bootstrap"
 import DoneOutlineIcon from '@material-ui/icons/DoneOutline';
 import ErrorOutlineIcon from '@material-ui/icons/ErrorOutline';
 
