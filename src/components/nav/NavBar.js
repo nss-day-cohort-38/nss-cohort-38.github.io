@@ -17,7 +17,7 @@ const NavBar = () => (
           <Navbar.Brand href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" >
-              <ul className="container">
+              <ul className="container" id="center-nav-elements">
                 <Nav.Link className="nav-a" href="#home">Home</Nav.Link>
                 <Nav.Link className="nav-a" href="#about">About</Nav.Link>
                 <Nav.Link className="nav-a" href="#devs">Developers</Nav.Link>
