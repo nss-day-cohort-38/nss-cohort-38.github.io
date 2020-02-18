@@ -12,16 +12,16 @@ const Thanks = () => (
             <h1 className="hello">Thank You</h1>
 
             <p className="about-paragraph">
-                To John Wark, <br />
-                Founder of Nashville Software School <br />
+                To John Wark (Founder of Nashville Software School), <br />
+                Amy, Laura, Mandy, and Jeremiah <br />
                 <br />
                 Thank you so much for creating this opportunity for us to change our lives. Nashville Software School is much more than just a school. It's an amazing, supportive community that embraces each student with the strength and care of a mother determined to see her children succeed.
-                We know you run a tight ship as a non-profit, yet you and your team still manage to carefully craft each detail of our experience and prepare us more than we could have ever imagined. <br />
+                We know you run a tight ship as a non-profit, yet the NSS team still manages to carefully craft each detail of our experience and prepare us more than we could have ever imagined. <br />
                 <br />
                 To Our Instructors, <br />
                 Jisie and Joe <br />
                 <br />
-                Thank you for so eloquently and happily sharing your knowledge with us during these last 6 months. The curriculum could get intense and fast-paced at times, but your humor and dedication to making sure each student had a certain level of understanding made the learning process so enjoyable (and even funny, at times!). Words can't express how much we will miss being in your class every day.<br />
+                Thank you for so eloquently and happily sharing your knowledge with us during these last 6 months. The curriculum could get intense and fast-paced at times, but your humor and dedication to making sure each student had a certain level of understanding made the learning process so enjoyable (and funny, at times!). Words can't express how much we will miss being in your class every day.<br />
                 <br />
                 <br />
                 To Our Junior Instructors and Teaching Assistants, <br />
