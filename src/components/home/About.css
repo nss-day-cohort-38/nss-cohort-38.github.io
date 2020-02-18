@@ -21,12 +21,12 @@ body {
 }
 
 .charater-traits-yellow {
-    color: #ffc86c;
+    color: rgb(233, 132, 49);
     font-weight: bolder;
     font-size: larger;
 }
 .charater-traits-blue {
-    color: #4e8098;
+    color: #305c70;
     font-weight: bolder;
     font-size: larger;
 

@@ -66,15 +66,17 @@ img#smallicon {
 }
 
 .container-cards {
+
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  flex-flow: row wrap;
+  justify-content: center;
+  max-width: 1200px;
+  margin: auto;
 }
 
 #AdditionalInfo {
   display: flex;
-  align-content: space-between;
+  align-content: space-around;
   padding: 15px;
-  margin-left: auto;
-  margin-right: auto;
+ 
 }

@@ -9,7 +9,7 @@ const Thanks = () => (
         <br />
         <br />
         <section className="about-us">
-            <h1 className="hello">Thank You</h1>
+            <h1 className="thanks">Thank You</h1>
 
             <p className="about-paragraph">
                 To John Wark, <br />
@@ -50,9 +50,6 @@ const Thanks = () => (
                 </p><br />
 
         </section>
-        <br />
-        <br />
-        <br />
     </>
 )
 
