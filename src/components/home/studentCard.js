@@ -19,7 +19,7 @@ class StudentCard extends Component {
                     </div>
 
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
-                    <p>{this.props.student.quote} {this.props.student.quoteAuthor}</p>
+                    <p>"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
                     <div className="icon-container">
                     { this.props.student.portfolio !== "" ? 
                     ( <a href={`${this.props.student.portfolio}`} target="_blank"><FontAwesomeIcon icon={faGlobe}  className="icons" fill="none"/></a>) 
