@@ -21,10 +21,19 @@ class StudentCard extends Component {
                     <h2>{this.props.student.firstName} {this.props.student.lastName}</h2>
                     <p>Favorite quote: {this.props.student.quote} {this.props.student.quoteAuthor}</p>
                     <div className="icon-container">
-                    <a href={`${this.props.student.portfolio}`} target="_blank"><FontAwesomeIcon icon={faGlobe}  className="icons" fill="none"/></a>
-                    <a href={`${this.props.student.github}`} target="_blank"><FontAwesomeIcon icon={faGithub}  className="icons"/></a>
-                    <a href={`${this.props.student.linkedIn}`} target="_blank"><FontAwesomeIcon icon={faLinkedin}  className="icons"/></a>
-                    <a href={`mailto:${this.props.student.email}`}><FontAwesomeIcon icon={faEnvelope}  className="icons"/></a>
+                    { this.props.student.portfolio !== "" ? 
+                    ( <a href={`${this.props.student.portfolio}`} target="_blank"><FontAwesomeIcon icon={faGlobe}  className="icons" fill="none"/></a>) 
+                    : (<></>)}
+
+                    { this.props.student.github !== "" ? 
+                    (<a href={`${this.props.student.github}`} target="_blank"><FontAwesomeIcon icon={faGithub}  className="icons"/></a>) 
+                    : (<></>)}
+                    { this.props.student.linkedIn !== "" ? 
+                    (<a href={`${this.props.student.linkedIn}`} target="_blank"><FontAwesomeIcon icon={faLinkedin}  className="icons"/></a>) 
+                    : (<></>)}
+                    { this.props.student.linkedIn !== "" ? 
+                    (<a href={`mailto:${this.props.student.email}`}><FontAwesomeIcon icon={faEnvelope}  className="icons"/></a>) 
+                    : (<></>)}
                     </div>
                 </div>
             </div>
