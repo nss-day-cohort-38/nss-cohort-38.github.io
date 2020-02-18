@@ -8,6 +8,7 @@ import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
 import Technologies from './Technologies'
+import Thanks from './Thanks';
 
 
 class Home extends Component {
@@ -45,9 +46,11 @@ class Home extends Component {
         )}
         </div>
         <section id="tech">
-        <Technologies/>
+          <Technologies/>
         </section>
-        <section id="thanks"></section>
+        <section id="thanks">
+          <Thanks/>
+        </section>
       </>
     )
   }
