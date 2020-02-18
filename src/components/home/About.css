@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -12,6 +13,7 @@ body {
 
 .hello {
     font-size: 5em;
+    font-family: 'Questrial', sans-serif;
 }
 
 .about-paragraph {

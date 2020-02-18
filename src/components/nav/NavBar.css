@@ -10,7 +10,7 @@ header {
 }
 
 .site-title {
-  color: rgb(28, 28, 28);
+  color: rgb(255, 255, 255);
   text-align: center;
   margin: 0;
   flex-grow: 2;
@@ -25,7 +25,8 @@ header {
 nav .container {
   display: flex; 
   margin-bottom: 0;
-  padding-right: 150px;
+  /* padding-right: 150px; */
+  /* align-items: flex-start; */
 }
 
 nav .container li {
@@ -33,7 +34,7 @@ nav .container li {
   padding: 10px;
   text-align: center;
   font-size: 1.5em;
-  color: rgb(28, 28, 28);
+  color: rgb(255, 255, 255);
   box-sizing: border-box;
   background-color: none;
   list-style-type: none;
@@ -42,7 +43,9 @@ nav .container li {
   text-align: right;
 }
 nav .container a {
-  color: rgb(28, 28, 28);
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  font-size: 22px;
 }
 
 nav .container a:hover {
@@ -52,7 +55,6 @@ nav .container a:hover {
   display: flex;
   align-items: left;
   justify-content: center;
-  
   background-color: rgba(255, 255, 255, 0.479);
   width: 100%;
 }
@@ -65,10 +67,9 @@ nav .container a:hover {
   
 }
 
-
 #classLogo {
-  height: 80px;
-  width: 80px;
+  height: 90px;
+  width: 90px;
 }
 
 
@@ -97,12 +98,23 @@ nav .container a:hover {
 .navbar-fixed-top {
   position: fixed;
   z-index: 100;
-  background-color: rgba(255, 255, 255, 0.705);
+  background-color: rgba(255, 255, 255, 0);
   width: 100%;
 }
 .bg-nav {
   background-color: white;
   transition: background-color 0.5s ease;
+}
 
+#rsvpButton {
+  background-color: rgb(221, 41, 1);
+  border: none;
+  font-size: 18px;
+}
+
+#rsvpButton:hover {
+  background-color:rgb(221, 41, 1);
+  color: white;
+  border: 1px solid white;
 }
 
