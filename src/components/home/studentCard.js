@@ -13,7 +13,7 @@ class StudentCard extends Component {
                 <div className="card-content">
                     <div className="card-fx">
                         {/* <picture> */}
-                        <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" />
+                        <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" className="student-serious-photo"/>
                         <img src={require(`../../images/students/${this.props.student.funImg}`)} className="student-fun-photo" />
                         {/* </picture> */}
                     </div>

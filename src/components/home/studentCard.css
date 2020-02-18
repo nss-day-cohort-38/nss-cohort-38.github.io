@@ -6,7 +6,7 @@ body {
 
 .student-card {
     display: flex;
-    color: #f7f6f1;
+    color: #ffffff;
     flex-direction: column;
     background-color: #3c6f83;
     height: auto;
@@ -58,7 +58,7 @@ background-color: darkblue;
 cursor: pointer;
 }
 
-img {
+.student-serious-photo, .student-fun-photo {
 width: 285px;
 height: 428px;
 border-radius: 1em;
