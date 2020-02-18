@@ -20,7 +20,7 @@ body {
 
 
 .card-content {
-padding: .5em;
+padding: 0 .5em .5em .5em;
 }
 
 .card-content h3 {
@@ -106,12 +106,12 @@ z-index: 2;
 #hiredLabel {
   margin-bottom: 0;
   /* width: 25.3%; */
-  height: 50px;
+  height: 40px;
   border-radius: .43em .43em 0 0;
   background-color: rgb(221, 41, 1);
   background-image: linear-gradient(to right, rgb(221, 41, 1), rgb(235, 87, 8));
   color: white;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bold;
   /* z-index: 97; */
   /* position: absolute; */
@@ -123,11 +123,11 @@ z-index: 2;
 
 #availableLabel {
   margin-bottom: 0;
-  height: 50px;
+  height: 40px;
   border-radius: .43em .43em 0 0;
-  background-color: green;
+  background-color: #ffffff;
   /* background-image: linear-gradient(to right, rgb(42, 122, 208), rgb(25, 79, 255)); */
-  color: white;
-  font-size: 30px;
+  color: #305c70;
+  font-size: 24px;
   font-weight: bold;
 }
