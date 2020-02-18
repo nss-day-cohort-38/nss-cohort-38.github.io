@@ -18,7 +18,6 @@ const NavBar = () => (
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" >
               <ul className="container" id="center-nav-elements">
-                <Nav.Link className="nav-a" href="#home">Home</Nav.Link>
                 <Nav.Link className="nav-a" href="#about">About</Nav.Link>
                 <Nav.Link className="nav-a" href="#devs">Developers</Nav.Link>
                 <Nav.Link className="nav-a" href="#tech">Technologies</Nav.Link>
