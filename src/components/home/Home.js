@@ -47,16 +47,16 @@ class Home extends Component {
             <div className="item active">
               <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
               <div className="carousel-caption">
-                {/* <h3>This is suppose to over lay above the image!!</h3>
-                <p>Paragraph is suppose to over lay above the image!!</p> */}
+                {/* <h3>This is suppose to over lay above the image that scrolls!</h3>
+                <p>Paragraph is suppose to over lay above the image that scrolls!</p> */}
               </div>      
             </div>
 
             <div className="item">
               <img src={classPhotoFun} alt="Cohort 36 Class Photo" id="homeImage"></img>
               <div className="carousel-caption">
-                {/* <h3>This is suppose to over lay above the image!!</h3>
-                <p>Paragraph is suppose to over lay above the image!!</p> */}
+                {/* <h3>This is suppose to over lay above the image that scrolls!</h3>
+                <p>Paragraph is suppose to over lay above the image that scrolls!</p> */}
               </div>      
             </div>
           </div>
