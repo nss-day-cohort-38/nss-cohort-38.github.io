@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import classPhoto from './class_photo_gradient.png'
 import classPhotoFun from './class_photo_fun.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Carousel from 'react-bootstrap/Carousel'
 import './Home.css'
 import './About.css'
 import "./studentCard.css"
@@ -37,30 +38,32 @@ class Home extends Component {
   render() {
     return (
       <>
-        <div id="myCarousel" className="carousel slide" data-ride="carousel">
-          <ol className="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" className="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-          </ol>
+        <Carousel>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src={classPhoto}
+              alt="First slide"
+            />
+            <Carousel.Caption>
+              <h3>First slide label</h3>
+              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            </Carousel.Caption>
+          </Carousel.Item>
 
-          <div className="carousel-inner" role="listbox">
-            <div className="item active">
-              <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
-              <div className="carousel-caption">
-                {/* <h3>This is suppose to over lay above the image that scrolls!</h3>
-                <p>Paragraph is suppose to over lay above the image that scrolls!</p> */}
-              </div>      
-            </div>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src={classPhotoFun}
+              alt="Second slide"
+            />
 
-            <div className="item">
-              <img src={classPhotoFun} alt="Cohort 36 Class Photo" id="homeImage"></img>
-              <div className="carousel-caption">
-                {/* <h3>This is suppose to over lay above the image that scrolls!</h3>
-                <p>Paragraph is suppose to over lay above the image that scrolls!</p> */}
-              </div>      
-            </div>
-          </div>
-        </div>
+            <Carousel.Caption>
+              <h3>Second slide label</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </Carousel.Caption>
+          </Carousel.Item>
+        </Carousel>
 
         <section id="about">
         <AboutUs/>
