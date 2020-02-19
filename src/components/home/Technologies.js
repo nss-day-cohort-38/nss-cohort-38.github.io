@@ -1,15 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Technologies.css'
 // Author: Sam Pita
 // Purpose: To display the technologies Cohort 36 has gained knowledge and practice in
 
 
-class Technologies extends Component {
-    render() {
-        return (
+const Technologies = () => (
             <>
-                <section className="technologies">
-                    <h2 id="techTitle">Technologies We've Worked With</h2>
+                <br/><br/><section className="technologies">
+                    <h2 id="techTitle">Technologies</h2><br/>
                     <div className="technologiesContainer">
                         <div className="cardContainer">
                             <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/javascript.png" alt="JavaScript Icon"></img>
@@ -74,7 +72,5 @@ class Technologies extends Component {
                     </div>
                 </section>
             </>
-        )
-    }
-}                                                                                                                         
+        )                                                                                                                      
     export default Technologies;

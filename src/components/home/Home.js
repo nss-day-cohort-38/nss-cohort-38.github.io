@@ -9,20 +9,28 @@ import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
 import Technologies from './Technologies'
+import Thanks from './Thanks';
 
 
 class Home extends Component {
   state = {
     students: [],
+    joinedStudentsArray: []
   }
 
   componentDidMount() {
-    //get all students from ApiManager and put it in state
     ApiManager.getAll("students")
     .then((studentsArray) => {
-        this.setState({
-            students: studentsArray
-        })
+      //create array for students who are not hired
+      const notHiredYet = studentsArray.filter(student => !student.isHired)
+      //create array for students who are hired
+      const hired = studentsArray.filter(student => student.isHired)
+      // Join the two arrays together
+      const joinedStudentsArray = notHiredYet.concat(hired)
+      // set the joined array to state
+      this.setState({
+        students: joinedStudentsArray
+      })
     })
   }
 
@@ -76,9 +84,11 @@ class Home extends Component {
         )}
         </div>
         <section id="tech">
-        <Technologies/>
+          <Technologies/>
         </section>
-        <section id="thanks"></section>
+        <section id="thanks">
+          <Thanks/>
+        </section>
       </>
     )
   }
