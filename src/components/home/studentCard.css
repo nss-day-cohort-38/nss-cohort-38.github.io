@@ -99,6 +99,14 @@ z-index: 2;
   color:rgb(241, 239, 239);
 }
 
+.icons:hover {
+  margin: 10px;
+  font-size: 33px;
+  background-color: #305c70;
+  color:rgb(165, 71, 28);
+
+}
+
 .student-name {
   color: rgb(241, 239, 239);
 }
