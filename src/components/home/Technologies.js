@@ -6,8 +6,8 @@ import './Technologies.css'
 
 const Technologies = () => (
             <>
-                <br/><br/><section className="technologies">
-                    <h2 id="techTitle">Technologies</h2><br/>
+                   <br/><br/> <h2 id="techTitle">Technologies</h2>
+                <section className="technologies">
                     <div className="technologiesContainer">
                         <div className="cardContainer">
                             <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/javascript.png" alt="JavaScript Icon"></img>
