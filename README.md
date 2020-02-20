@@ -24,7 +24,7 @@ We are Cohort 36.
  
 
 ## Credits
-Contributors: Caroline Brownlee, Julian Garcia, Sam Pita, Lauren Riddle
+Contributors: Julian Garcia, Sam Pita, Lauren Riddle
 
 Class Logo Designed By: Guy Cherkesky
 
