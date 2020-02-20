@@ -45,7 +45,7 @@ const Thanks = () => (
                 </div>
                 <div className="thanks-section">
                     <span className="thanks-titles">Lastly, <br />
-                    Fellow Cohort 36 Classmates <br /></span>
+                    To Our Fellow Cohort 36 Classmates <br /></span>
                     <div className="thanks-message">
                     This bootcamp was even more amazing because of the people we experienced it with. Cohort 36 is made up of wonderful people of the highest caliber. We supported each other through every trial and tribulation. We laughed together when we got stuck. We went out after class and karaoke'd to celebrate little wins. We are always here for each other, even in our post-NSS careers, and that makes it so much better.</div>
                 </div>
