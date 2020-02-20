@@ -3,15 +3,13 @@ import { Link, withRouter } from "react-router-dom"
 import logo from './36logo.png'
 import './NavBar.css'
 import { Navbar, Nav, Button } from "react-bootstrap"
-
+// Author: Lauren Riddle
+// Purpose: To create the Navbar for the class website
 
 const NavBar = () => (
   <header>
     <div className="flexContainer">
       <div className="flexContainer2">
-        {/* <h1 className="site-title flex-item">Cohort 36<br />
-          <small>Nashville Software School</small>
-        </h1> */}
         <nav className="flex-item navbar-fixed-top" id="navbar">
           <Navbar collapseOnSelect expand="lg" className="nav-width navbar-collapse">
           <Navbar.Brand href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Navbar.Brand>
