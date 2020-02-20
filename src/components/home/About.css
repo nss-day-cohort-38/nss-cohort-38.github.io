@@ -18,6 +18,7 @@ body {
 
 .about-paragraph {
     font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .charater-traits-yellow {
@@ -29,7 +30,17 @@ body {
     color: #305c70;
     font-weight: bolder;
     font-size: larger;
+}
 
+#software-devs {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+#c36 {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
 }
 
 .about-background {
@@ -50,11 +61,15 @@ body {
         font-size: 16px;
     }
 
-    .software-devs {
+    #software-devs {
         font-size: 22px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
     }
-    .c36 {
+    #c36 {
         font-size: 25px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
     }
 
     .charater-traits-yellow {
