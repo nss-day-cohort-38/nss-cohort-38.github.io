@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -107,6 +108,11 @@ body {
 
 .student-name {
   color: rgb(241, 239, 239);
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Questrial', sans-serif;
+  font-weight: bold;
+  /* text-transform: uppercase; */
+
 }
 
 #hiredLabel {
