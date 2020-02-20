@@ -84,6 +84,7 @@ class Home extends Component {
         <section id="thanks">
           <Thanks/>
         </section>
+        <footer>© 2019. Nashville Software School Day Cohort 36.</footer>
       </>
     )
   }
