@@ -11,6 +11,8 @@ We are software developers.
 
 We are Cohort 36.
 
+🌮🎾🎤🐓🐒
+
 
 ## To Install 
 1. In your terminal, run `git clone SSH KEY HERE`
@@ -19,7 +21,7 @@ We are Cohort 36.
 1. `cd` into the API directory and run `json-server -p 5002 -w students.json`
 1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
 
-
+ 
 
 ## Credits
 Contributors: Caroline Brownlee, Julian Garcia, Sam Pita, Lauren Riddle
