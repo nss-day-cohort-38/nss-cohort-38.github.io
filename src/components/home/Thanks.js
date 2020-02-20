@@ -8,7 +8,7 @@ const Thanks = () => (
     <>
         <br />
         <section className="about-us">
-            <h1 className="thanks">Thank You</h1>
+            <h1 className="thanks">Thank You...</h1>
 
             <p className="thanks-paragraph">
                 <div className="thanks-section">
