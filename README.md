@@ -11,7 +11,7 @@ We are software developers.
 
 We are Cohort 36.
 
-🌮🎾🎤🐓🐒
+🌮🎾🎤🐒🐓
 
 
 ## To Install 
