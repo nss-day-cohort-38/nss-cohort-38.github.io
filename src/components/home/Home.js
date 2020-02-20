@@ -19,46 +19,53 @@ class Home extends Component {
 
   componentDidMount() {
     ApiManager.getAll("students")
-    .then((studentsArray) => {
-      //create array for students who are not hired
-      const notHiredYet = studentsArray.filter(student => !student.isHired)
-      //create array for students who are hired
-      const hired = studentsArray.filter(student => student.isHired)
-      // Join the two arrays together
-      const joinedStudentsArray = notHiredYet.concat(hired)
-      // set the joined array to state
-      this.setState({
-        students: joinedStudentsArray
+      .then((studentsArray) => {
+        //create array for students who are not hired
+        const notHiredYet = studentsArray.filter(student => !student.isHired)
+        //create array for students who are hired
+        const hired = studentsArray.filter(student => student.isHired)
+        // Join the two arrays together
+        const joinedStudentsArray = notHiredYet.concat(hired)
+        // set the joined array to state
+        this.setState({
+          students: joinedStudentsArray
+        })
       })
-    })
   }
 
   render() {
     return (
       <>
         <section id="home">
-        <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
+          <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
         </section>
         <section id="about">
-        <AboutUs/>
+          <AboutUs />
         </section>
-        
+
         <div id="devs" className="container-cards">
-        {this.state.students.map(student =>
-          <StudentCard
-            key={student.id}
-            student={student}
-            {...this.props}
-          />
-        )}
+          {this.state.students.map(student =>
+            <StudentCard
+              key={student.id}
+              student={student}
+              {...this.props}
+            />
+          )}
         </div>
+        <br />
+        <br />
+        <br />
         <section id="tech">
-          <Technologies/>
+          <Technologies />
         </section>
+        <br />
+        <br />
+        <br />
         <section id="thanks">
-          <Thanks/>
+          <Thanks />
         </section>
-        <footer>© 2019. Nashville Software School Day Cohort 36.</footer>
+
+        <footer>© 2020. Nashville Software School Day Cohort 36.</footer>
       </>
     )
   }

@@ -31,3 +31,33 @@ body {
     font-size: larger;
 
 }
+
+@media only screen and (max-width: 800px) {
+    
+    .hello {
+        font-size: 3em;
+        font-family: 'Questrial', sans-serif;
+    }
+    .about-paragraph {
+        font-size: 16px;
+    }
+
+    .software-devs {
+        font-size: 22px;
+    }
+    .c36 {
+        font-size: 25px;
+    }
+
+    .charater-traits-yellow {
+        color: rgb(233, 132, 49);
+        font-weight: bolder;
+        font-size: large;
+    }
+    .charater-traits-blue {
+        color: #305c70;
+        font-weight: bolder;
+        font-size: large;
+    
+    }
+  }

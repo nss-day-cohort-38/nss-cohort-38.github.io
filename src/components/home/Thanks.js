@@ -11,7 +11,7 @@ const Thanks = () => (
         <section className="about-us">
             <h1 className="thanks">Thank You</h1>
 
-            <p className="about-paragraph">
+            <p className="thanks-paragraph">
                 <span className="thanks-titles">To John Wark, <br />
                 Founder of Nashville Software School <br />
                 </span><br />
