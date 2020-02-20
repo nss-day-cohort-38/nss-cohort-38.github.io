@@ -43,6 +43,14 @@ body {
     font-weight: bold;
 }
 
+.about-background {
+    background-image: url(./about_background.png);
+}
+
+#thanks {
+    background-image: url(./thanks_background.png);
+}
+
 @media only screen and (max-width: 800px) {
     
     .hello {
