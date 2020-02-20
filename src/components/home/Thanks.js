@@ -7,11 +7,10 @@ import './Thanks.css'
 const Thanks = () => (
     <>
         <br />
-        <br />
         <section className="about-us">
             <h1 className="thanks">Thank You</h1>
 
-            <p className="about-paragraph">
+            <p className="thanks-paragraph">
                 <div className="thanks-section">
                     <span className="thanks-titles">To John Wark, <br />
                     Founder of Nashville Software School <br />
