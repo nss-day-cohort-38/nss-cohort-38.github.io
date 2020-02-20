@@ -54,11 +54,9 @@ class Home extends Component {
         </div>
         <br />
         <br />
-        <br />
         <section id="tech">
           <Technologies />
         </section>
-        <br />
         <br />
         <br />
         <section id="thanks">

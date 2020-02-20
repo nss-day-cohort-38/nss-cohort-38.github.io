@@ -7,7 +7,6 @@ import './Thanks.css'
 const Thanks = () => (
     <>
         <br />
-        <br />
         <section className="about-us">
             <h1 className="thanks">Thank You</h1>
 
