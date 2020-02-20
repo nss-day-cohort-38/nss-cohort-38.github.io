@@ -29,13 +29,36 @@
 .cardContainer {
     padding: 5px;
 }
+.cardContainer {
+    padding: 5px;
+    margin: 12px;
+    font-family: 'Open Sans', sans-serif;
+
+}
 
 @media only screen and (max-width: 800px) {
   
     #techTitle {
         font-size: 3em;
         font-family: 'Questrial', sans-serif;
-        /* text-align: left; */
+        text-align: center;
         margin-top: 100px;
+    }
+    .technologies {
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+    }
+
+    .techImage {
+        width: 75px;
+        height: 75px;
+    }
+    .cardContainer {
+        padding: 5px;
+        margin:10px;
+        font-family: 'Open Sans', sans-serif;
+
     }
   }

@@ -12,7 +12,17 @@ body {
 
 footer {
     text-align: center;
-    font-size: 20px;
+    font-size: 17px;
     background-color: white;
     padding-bottom: 20px;
 }
+
+@media only screen and (max-width: 800px) {
+  
+    footer {
+        text-align: center;
+        font-size: 14px;
+        background-color: white;
+        padding-bottom: 20px;
+    }
+  }
