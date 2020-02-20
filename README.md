@@ -16,5 +16,7 @@ Contributors: Caroline Brownlee, Julian Garcia, Sam Pita, Lauren Riddle
 
 Class Logo Designed By: Guy Cherkesky
 
+View the deployed website at 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
