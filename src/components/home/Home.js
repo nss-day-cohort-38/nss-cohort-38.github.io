@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import classPhoto from './class_photo_gradient.png'
+import classPhotoFun from './class_photo_fun.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Carousel from 'react-bootstrap/Carousel'
 import './Home.css'
 import './About.css'
 import "./studentCard.css"
@@ -36,9 +38,33 @@ class Home extends Component {
   render() {
     return (
       <>
-        <section id="home">
-          <img src={classPhoto} alt="Cohort 36 Class Photo" id="homeImage"></img>
-        </section>
+        <Carousel>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src={classPhoto}
+              alt="First slide"
+            />
+            <Carousel.Caption>
+              {/* <h3>First slide label</h3>
+              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
+            </Carousel.Caption>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src={classPhotoFun}
+              alt="Second slide"
+            />
+
+            <Carousel.Caption>
+              {/* <h3>Second slide label</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
+            </Carousel.Caption>
+          </Carousel.Item>
+        </Carousel>
+
         <section id="about">
           <AboutUs />
         </section>
