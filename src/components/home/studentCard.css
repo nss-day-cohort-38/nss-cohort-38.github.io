@@ -94,7 +94,7 @@ body {
 
 .icons {
   margin: 10px;
-  font-size: 35px;
+  font-size: 40px;
   background-color: #305c70;
   color:rgb(241, 239, 239);
 }
@@ -102,7 +102,7 @@ body {
 .icons:hover {
   margin: 10px;
   background-color: #305c70;
-  color: rgb(32, 32, 32);
+  color: rgb(148, 146, 146);
 }
 
 .student-name {
