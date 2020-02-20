@@ -5,6 +5,16 @@
 }
 
 .thanks-titles {
-    /* color: rgb(228, 134, 58); */
-    /* font-weight: bold; */
+    color: #3d5e79;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.thanks-section {
+    margin-top: 2em;
+}
+
+.thanks-message {
+    font-size: 16px;
+    margin-top: 1em;
 }
