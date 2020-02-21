@@ -5,7 +5,7 @@ export default {
     return fetch(`${remoteURL}/${tableName}/${id}`).then(result => result.json())
   },
   getAll(tableName) {
-    return fetch("`${remoteURL}/${tableName}`").then(result => result.json())
+    return fetch(`${remoteURL}/${tableName}`).then(result => result.json())
   },
   delete(tableName, id) {
     return fetch(`http://localhost:5002/${tableName}/${id}`, {
