@@ -11,6 +11,7 @@ import StudentCard from './studentCard'
 import AboutUs from "./About"
 import Technologies from './Technologies'
 import Thanks from './Thanks';
+import allStudents from '../../modules/students'
 
 
 class Home extends Component {
@@ -20,19 +21,17 @@ class Home extends Component {
   }
 
   componentDidMount() {
-    ApiManager.getAll("students")
-      .then((studentsArray) => {
-        //create array for students who are not hired
-        const notHiredYet = studentsArray.filter(student => !student.isHired)
-        //create array for students who are hired
-        const hired = studentsArray.filter(student => student.isHired)
-        // Join the two arrays together
+    // ApiManager.getAll("students")
+    //     //create array for students who are not hired
+        const notHiredYet = allStudents.filter(student => !student.isHired)
+    //     //create array for students who are hired
+        const hired = allStudents.filter(student => student.isHired)
+    //     // Join the two arrays together
         const joinedStudentsArray = notHiredYet.concat(hired)
         // set the joined array to state
         this.setState({
           students: joinedStudentsArray
         })
-      })
   }
 
   render() {
