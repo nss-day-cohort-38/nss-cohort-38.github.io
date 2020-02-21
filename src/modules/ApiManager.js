@@ -1,11 +1,11 @@
-const remoteURL = "http://localhost:5002"
+const remoteURL = "https://nss-cohort-36-json-server-api.herokuapp.com/"
 
 export default {
   get(tableName, id) {
     return fetch(`${remoteURL}/${tableName}/${id}`).then(result => result.json())
   },
   getAll(tableName) {
-    return fetch(`${remoteURL}/${tableName}`).then(result => result.json())
+    return fetch("`${remoteURL}/${tableName}`").then(result => result.json())
   },
   delete(tableName, id) {
     return fetch(`http://localhost:5002/${tableName}/${id}`, {
