@@ -165,7 +165,7 @@ export default [
             "portfolio": "https://ryancrowleycode.github.io/",
             "proImg": "ryan_crowley_serious.png",
             "funImg": "ryan_crowley_fun.png",
-            "isHired": false
+            "isHired": true
         },
         {
             "id": 13,
@@ -218,7 +218,7 @@ export default [
             "email": "brantleyjones74@gmail.com",
             "github": "https://github.com/corri-golden",
             "linkedIn": "https://www.linkedin.com/in/corri-golden/",
-            "portfolio": "https://corri-golden.github.io/",
+            "portfolio": "https://corri-golden.github.io/personal-website/",
             "proImg": "corri_serious.png",
             "funImg": "corri_fun.png",
             "isHired": false
