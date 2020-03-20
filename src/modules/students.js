@@ -190,7 +190,8 @@ export default [
             "portfolio": "https://rhc822.github.io/",
             "proImg": "ryan_cunningham_serious.png",
             "funImg": "ryan_cunningham_serious.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "RyanCunningham-resume.pdf"
         },
         {
             "id": 14,
@@ -249,7 +250,8 @@ export default [
             "portfolio": "",
             "proImg": "sophia_serious.png",
             "funImg": "sophia_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "SophiaHoffman-resume.pdf"
         },
         {
             "id": 18,
