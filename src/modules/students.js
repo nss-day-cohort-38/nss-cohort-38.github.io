@@ -25,7 +25,7 @@ export default [
             "email": "rdbishop06@gmail.com",
             "proImg": "ryan_bishop_serious.png",
             "funImg": "ryan_bishop_fun.png",
-            "isHired": false
+            "isHired": true
         },
         {
             "id": 3,
