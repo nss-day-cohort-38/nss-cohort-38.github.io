@@ -35,15 +35,10 @@ body {
   color: white;
 }
 
-.content-petname {
+.card-content .btn-resume, .card-content .btn-capstone {
   color: white;
+  margin: 8px;
 }
-
-.card-content .btn-resume {
-  color: white
-}
-
-
 
 .student-serious-photo, .student-fun-photo {
   width: 285px;
