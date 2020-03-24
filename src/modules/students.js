@@ -35,7 +35,7 @@ export default [
             "quoteAuthor": "-Arnold Schwarzenegger",
             "github": "https://github.com/MatthewScott32",
             "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
-            "portfolio": "https://matthewblagg.github.io/",
+            "portfolio": "https://matthewscott32.github.io/matthewblagg.github.io/",
             "email": "matthewscottblagg@gmail.com",
             "proImg": "matthew_serious.png",
             "funImg": "matthew_fun.png",
