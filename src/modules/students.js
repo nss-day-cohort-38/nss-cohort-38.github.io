@@ -11,7 +11,8 @@ export default [
             "email": "jeremiah.bell812.topper@gmail.com",
             "proImg": "jeremiah_serious.png",
             "funImg": "jeremiah_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "JeremiahBell-resume.pdf"
         },
         {
             "id": 2,
@@ -39,7 +40,8 @@ export default [
             "email": "matthewscottblagg@gmail.com",
             "proImg": "matthew_serious.png",
             "funImg": "matthew_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "MatthewBlagg-resume.pdf"
         },
         {
             "id": 4,
@@ -53,7 +55,8 @@ export default [
             "portfolio": "https://cassieboyd.github.io/",
             "proImg": "cassandra_serious.png",
             "funImg": "cassandra_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "CassieBoyd-resume.pdf"
         },
         {
             "id": 5,
@@ -67,7 +70,8 @@ export default [
             "portfolio": "",
             "proImg": "kenneth_serious.png",
             "funImg": "kenneth_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "KenBoyd-resume.pdf"
         },
         {
             "id": 6,
@@ -81,7 +85,8 @@ export default [
             "portfolio": "",
             "proImg": "caroline_serious.png",
             "funImg": "caroline_serious.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "CarolineBrownlee-resume.pdf"
         },
         {
             "id": 7,
@@ -95,7 +100,8 @@ export default [
             "portfolio": "https://manilabui.com/",
             "proImg": "manila_serious.png",
             "funImg": "manila_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "ManilaBui-resume.pdf"
         },
         {
             "id": 8,
@@ -109,7 +115,8 @@ export default [
             "portfolio": "https://ajbyrd.github.io/adambyrd/",
             "proImg": "adam_serious.png",
             "funImg": "adam_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "AdamByrd-resume.pdf"
         },
         {
             "id": 9,
@@ -123,7 +130,8 @@ export default [
             "portfolio": "https://chapmanjamesg.github.io/",
             "proImg": "james_serious.png",
             "funImg": "james_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "JamesChapman-resume.pdf"
         },
         {
             "id": 10,
@@ -137,7 +145,8 @@ export default [
             "portfolio": "https://shawnachatfield.github.io/",
             "proImg": "shawna_serious.png",
             "funImg": "shawna_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "ShawnaChatfield-resume.pdf"
         },
         {
             "id": 11,
@@ -151,7 +160,8 @@ export default [
             "portfolio": "https://www.cherkesky.com",
             "proImg": "guy_serious.png",
             "funImg": "guy_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "GuyCherkesky-resume.pdf"
         },
         {
             "id": 12,
@@ -179,7 +189,8 @@ export default [
             "portfolio": "https://rhc822.github.io/",
             "proImg": "ryan_cunningham_serious.png",
             "funImg": "ryan_cunningham_serious.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "RyanCunningham-resume.pdf"
         },
         {
             "id": 14,
@@ -193,7 +204,8 @@ export default [
             "portfolio": "https://chase-fite.github.io/",
             "proImg": "chase_serious.png",
             "funImg": "chase_serious.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "ChaseFite-resume.pdf"
           },
         {
             "id": 15,
@@ -207,7 +219,8 @@ export default [
             "portfolio": "",
             "proImg": "julian_serious.png",
             "funImg": "julian_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "JulianGarcia-resume.pdf"
         },
         {
             "id": 16,
@@ -221,7 +234,8 @@ export default [
             "portfolio": "https://corri-golden.github.io/personal-website/",
             "proImg": "corri_serious.png",
             "funImg": "corri_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "CorriGolden-resume.pdf"
         },
         {
             "id": 17,
@@ -235,7 +249,8 @@ export default [
             "portfolio": "",
             "proImg": "sophia_serious.png",
             "funImg": "sophia_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "SophiaHoffman-resume.pdf"
         },
         {
             "id": 18,
@@ -249,7 +264,8 @@ export default [
             "portfolio": "http://cpjackson777.github.io/",
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "CharlesJackson-resume.pdf"
         },
         {
             "id": 19,
@@ -263,7 +279,8 @@ export default [
             "portfolio": "",
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "MichelleJohnson-resume.pdf"
         },
         {
             "id": 20,
@@ -277,7 +294,8 @@ export default [
             "portfolio": "https://johnandrewlong.com",
             "proImg": "john_serious.png",
             "funImg": "john_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "JohnLong-resume.pdf"
         },
         {
             "id": 21,
@@ -291,7 +309,8 @@ export default [
             "portfolio": "https://jesieoldenburg.github.io/",
             "proImg": "jesie_serious.png",
             "funImg": "jesie_serious.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "JesieOldenburg-resume.pdf"
         },
         {
             "id": 22,
@@ -305,7 +324,8 @@ export default [
             "portfolio": "http://sullypierce.github.io/",
             "proImg": "sullivan_serious.png",
             "funImg": "sullivan_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "SullyPierce-resume.pdf"
         },
         {
             "id": 23,
@@ -319,7 +339,8 @@ export default [
             "portfolio": "",
             "proImg": "christian_serious.png",
             "funImg": "christian_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "ChristianPippin-resume.pdf"
         },
         {
             "id": 24,
@@ -347,7 +368,8 @@ export default [
             "portfolio": "https://erinepolley.github.io/",
             "proImg": "erin_serious.png",
             "funImg": "erin_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "ErinPolley-resume.pdf"
         },
         {
             "id": 26,
@@ -361,7 +383,8 @@ export default [
             "portfolio": "https://laurenriddle.github.io/laurenriddle/",
             "proImg": "lauren_serious.png",
             "funImg": "lauren_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "LaurenRiddle-resume.pdf"
         },
         {
             "id": 27,
@@ -375,7 +398,8 @@ export default [
             "portfolio": "",
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "MelodyStern-resume.pdf"
         },
         {
             "id": 28,
@@ -389,7 +413,8 @@ export default [
             "portfolio": "https://treysuiter.github.io/",
             "proImg": "trey_serious.png",
             "funImg": "trey_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "TreySuiter-resume.pdf"
         },
         {
             "id": 29,
@@ -403,6 +428,7 @@ export default [
             "portfolio": "https://josephwalker504.github.io",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
-            "isHired": false
+            "isHired": false,
+            "resume": "JosephWalker-resume.pdf"
         }
 ]
