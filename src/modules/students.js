@@ -273,7 +273,7 @@ export default [
             "lastName": "Johnson",
             "quote": "Always be yourself unless you can be Stitch, then always be Stitch.",
             "quoteAuthor": "",
-            "email": "bob1234girl@gmail.com",
+            "email": "michelle.sta.maria.johnson@gmail.com",
             "github": "https://github.com/stitchelle",
             "linkedIn": "https://www.linkedin.com/in/stitchelle/",
             "portfolio": "",
