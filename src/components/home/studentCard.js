@@ -7,6 +7,7 @@ import { faGlobe, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import DoneOutlineIcon from '@material-ui/icons/DoneOutline';
 import ErrorOutlineIcon from '@material-ui/icons/ErrorOutline';
 import ResumeDialog from './studentResume'
+import CapstoneDialog from './studentCapstone'
 
 
 class StudentCard extends Component {
@@ -48,6 +49,7 @@ class StudentCard extends Component {
                         : (<></>)}
                         </div>
                         {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
+                        {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
                     </div>
                 </div>
             </>

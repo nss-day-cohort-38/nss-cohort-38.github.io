@@ -12,7 +12,8 @@ export default [
             "proImg": "jeremiah_serious.png",
             "funImg": "jeremiah_fun.png",
             "isHired": false,
-            "resume": "JeremiahBell-resume.pdf"
+            "resume": "JeremiahBell-resume.pdf",
+            "capstoneURL": "stAIvRPedSw"
         },
         {
             "id": 2,
@@ -56,7 +57,8 @@ export default [
             "proImg": "cassandra_serious.png",
             "funImg": "cassandra_fun.png",
             "isHired": false,
-            "resume": "CassieBoyd-resume.pdf"
+            "resume": "CassieBoyd-resume.pdf",
+            "capstoneURL": "FUzktf9HPI4"
         },
         {
             "id": 5,
@@ -71,7 +73,8 @@ export default [
             "proImg": "kenneth_serious.png",
             "funImg": "kenneth_fun.png",
             "isHired": false,
-            "resume": "KenBoyd-resume.pdf"
+            "resume": "KenBoyd-resume.pdf",
+            "capstoneURL": "ZSl69af83pg"
         },
         {
             "id": 6,
@@ -86,7 +89,8 @@ export default [
             "proImg": "caroline_serious.png",
             "funImg": "caroline_serious.png",
             "isHired": false,
-            "resume": "CarolineBrownlee-resume.pdf"
+            "resume": "CarolineBrownlee-resume.pdf",
+            "capstoneURL": "4HJNCYYHsgA"
         },
         {
             "id": 7,
@@ -101,7 +105,8 @@ export default [
             "proImg": "manila_serious.png",
             "funImg": "manila_fun.png",
             "isHired": false,
-            "resume": "ManilaBui-resume.pdf"
+            "resume": "ManilaBui-resume.pdf",
+            "capstoneURL": "kLW4DvbuWp4"
         },
         {
             "id": 8,
@@ -116,7 +121,8 @@ export default [
             "proImg": "adam_serious.png",
             "funImg": "adam_fun.png",
             "isHired": false,
-            "resume": "AdamByrd-resume.pdf"
+            "resume": "AdamByrd-resume.pdf",
+            "capstoneURL": "XDJJkwKScgU"
         },
         {
             "id": 9,
@@ -146,7 +152,8 @@ export default [
             "proImg": "shawna_serious.png",
             "funImg": "shawna_fun.png",
             "isHired": false,
-            "resume": "ShawnaChatfield-resume.pdf"
+            "resume": "ShawnaChatfield-resume.pdf",
+            "capstoneURL": "xlgCh2PP5dc"
         },
         {
             "id": 11,
@@ -161,7 +168,8 @@ export default [
             "proImg": "guy_serious.png",
             "funImg": "guy_fun.png",
             "isHired": false,
-            "resume": "GuyCherkesky-resume.pdf"
+            "resume": "GuyCherkesky-resume.pdf",
+            "capstoneURL": "oG92MiNRykk"
         },
         {
             "id": 12,
@@ -190,7 +198,8 @@ export default [
             "proImg": "ryan_cunningham_serious.png",
             "funImg": "ryan_cunningham_serious.png",
             "isHired": false,
-            "resume": "RyanCunningham-resume.pdf"
+            "resume": "RyanCunningham-resume.pdf",
+            "capstoneURL": "8gSbEki88Qo"
         },
         {
             "id": 14,
@@ -205,7 +214,8 @@ export default [
             "proImg": "chase_serious.png",
             "funImg": "chase_serious.png",
             "isHired": false,
-            "resume": "ChaseFite-resume.pdf"
+            "resume": "ChaseFite-resume.pdf",
+            "capstoneURL": "ri4LpJwyqyY"
           },
         {
             "id": 15,
@@ -220,7 +230,8 @@ export default [
             "proImg": "julian_serious.png",
             "funImg": "julian_fun.png",
             "isHired": false,
-            "resume": "JulianGarcia-resume.pdf"
+            "resume": "JulianGarcia-resume.pdf",
+            "capstoneURL": "Yrkd01jP5xU"
         },
         {
             "id": 16,
@@ -235,7 +246,8 @@ export default [
             "proImg": "corri_serious.png",
             "funImg": "corri_fun.png",
             "isHired": false,
-            "resume": "CorriGolden-resume.pdf"
+            "resume": "CorriGolden-resume.pdf",
+            "capstoneURL": "UDKk0354HwA"
         },
         {
             "id": 17,
@@ -280,7 +292,8 @@ export default [
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
             "isHired": false,
-            "resume": "MichelleJohnson-resume.pdf"
+            "resume": "MichelleJohnson-resume.pdf",
+            "capstoneURL": "smL6prRZoNk",
         },
         {
             "id": 20,
@@ -295,7 +308,8 @@ export default [
             "proImg": "john_serious.png",
             "funImg": "john_fun.png",
             "isHired": false,
-            "resume": "JohnLong-resume.pdf"
+            "resume": "JohnLong-resume.pdf",
+            "capstoneURL": "D2dnW3m7XRI"
         },
         {
             "id": 21,
@@ -310,7 +324,8 @@ export default [
             "proImg": "jesie_serious.png",
             "funImg": "jesie_serious.png",
             "isHired": false,
-            "resume": "JesieOldenburg-resume.pdf"
+            "resume": "JesieOldenburg-resume.pdf",
+            "capstoneURL": "Z_U0FkDZvnA"
         },
         {
             "id": 22,
@@ -325,7 +340,8 @@ export default [
             "proImg": "sullivan_serious.png",
             "funImg": "sullivan_fun.png",
             "isHired": false,
-            "resume": "SullyPierce-resume.pdf"
+            "resume": "SullyPierce-resume.pdf",
+            "capstoneURL": "sYCKTcyANSs"
         },
         {
             "id": 23,
@@ -340,7 +356,8 @@ export default [
             "proImg": "christian_serious.png",
             "funImg": "christian_fun.png",
             "isHired": false,
-            "resume": "ChristianPippin-resume.pdf"
+            "resume": "ChristianPippin-resume.pdf",
+            "capstoneURL": "Q4fHmncsJUY"
         },
         {
             "id": 24,
@@ -369,7 +386,8 @@ export default [
             "proImg": "erin_serious.png",
             "funImg": "erin_fun.png",
             "isHired": false,
-            "resume": "ErinPolley-resume.pdf"
+            "resume": "ErinPolley-resume.pdf",
+            "capstoneURL": "Hqw3zeqZ8vc"
         },
         {
             "id": 26,
@@ -384,7 +402,8 @@ export default [
             "proImg": "lauren_serious.png",
             "funImg": "lauren_fun.png",
             "isHired": false,
-            "resume": "LaurenRiddle-resume.pdf"
+            "resume": "LaurenRiddle-resume.pdf",
+            "capstoneURL": "YdQe-vRHBe8"
         },
         {
             "id": 27,
@@ -399,7 +418,8 @@ export default [
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
             "isHired": false,
-            "resume": "MelodyStern-resume.pdf"
+            "resume": "MelodyStern-resume.pdf",
+            "capstoneURL": "8XJ80SfFaN0"
         },
         {
             "id": 28,
@@ -414,7 +434,8 @@ export default [
             "proImg": "trey_serious.png",
             "funImg": "trey_fun.png",
             "isHired": false,
-            "resume": "TreySuiter-resume.pdf"
+            "resume": "TreySuiter-resume.pdf",
+            "capstoneURL": "th8wHFc4GZo"
         },
         {
             "id": 29,
