@@ -14,7 +14,7 @@ class StudentCard extends Component {
     render() {
         return (
             <>
-            <div className="student-card">
+              <div className="student-card">
                 {/* Ternary for HIRED label */}
                 {this.props.student.isHired ? (
                 <p id="hiredLabel">
@@ -23,17 +23,17 @@ class StudentCard extends Component {
                 ) : <p id="availableLabel">
                 <ErrorOutlineIcon style={{ fontSize: 36 }}/>
                 <span id="availableText">Available For Hire</span></p>}
-                    <div className="card-content">
-                        <div className="card-fx">
-                            {/* <picture> */}
-                            <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" className="student-serious-photo"/>
-                            <img src={require(`../../images/students/${this.props.student.funImg}`)} className="student-fun-photo" />
-                            {/* </picture> */}
-                        </div>
-
-                        <h2 className="student-name">{this.props.student.firstName} {this.props.student.lastName}</h2>
-                        <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
-                        <div className="icon-container">
+                <div className="card-content">
+                    <div className="card-fx">
+                      {/* <picture> */}
+                      <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" className="student-serious-photo"/>
+                      <img src={require(`../../images/students/${this.props.student.funImg}`)} className="student-fun-photo" />
+                      {/* </picture> */}
+                    </div>
+                    <h2 className="student-name">{this.props.student.firstName} {this.props.student.lastName}</h2>
+                    <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
+                    <div className="student-links">
+                      <div className="icon-container">
                         { this.props.student.portfolio !== "" ?
                         ( <a href={`${this.props.student.portfolio}`} target="_blank" className="icons" ><FontAwesomeIcon icon={faGlobe}  fill="none"/></a>)
                         : (<></>)}
@@ -47,11 +47,12 @@ class StudentCard extends Component {
                         { this.props.student.linkedIn !== "" ?
                         (<a href={`mailto:${this.props.student.email}`} className="icons"><FontAwesomeIcon icon={faEnvelope}  /></a>)
                         : (<></>)}
-                        </div>
-                        {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
-                        {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
+                      </div>
+                      {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
+                      {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
                     </div>
                 </div>
+              </div>
             </>
         )
     }

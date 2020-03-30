@@ -451,6 +451,7 @@ export default [
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": false,
-            "resume": "JosephWalker-resume.pdf"
+            "resume": "JosephWalker-resume.pdf",
+            "capstoneURL": "1Xi3ABCW6E0"
         }
 ]
