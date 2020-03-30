@@ -137,7 +137,8 @@ export default [
             "proImg": "james_serious.png",
             "funImg": "james_fun.png",
             "isHired": false,
-            "resume": "JamesChapman-resume.pdf"
+            "resume": "JamesChapman-resume.pdf",
+            "capstoneURL": "t8jQHk6kmGM"
         },
         {
             "id": 10,
@@ -450,6 +451,7 @@ export default [
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": false,
-            "resume": "JosephWalker-resume.pdf"
+            "resume": "JosephWalker-resume.pdf",
+            "capstoneURL": "1Xi3ABCW6E0"
         }
 ]

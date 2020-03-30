@@ -17,9 +17,6 @@ class AboutUs extends Component {
                         <h3 className="software-devs">We are software developers. </h3><br /><h2 className="c36">We are Cohort 36.</h2>
                     </section>
                 </div>
-                <br />
-                <br />
-                <br />
             </>
         )
     }
