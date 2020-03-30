@@ -9,6 +9,7 @@ import "./studentCard.css"
 import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
+import Podcasts from "./Podcasts"
 import Technologies from './Technologies'
 import Thanks from './Thanks';
 import allStudents from '../../modules/students'
@@ -67,7 +68,7 @@ class Home extends Component {
         <section id="about">
           <AboutUs />
         </section>
-
+        <Podcasts></Podcasts>
         <div id="devs" className="container-cards">
           {this.state.students.map(student =>
             <StudentCard
