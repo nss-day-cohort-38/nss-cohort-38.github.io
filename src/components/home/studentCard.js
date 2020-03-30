@@ -48,12 +48,8 @@ class StudentCard extends Component {
                         (<a href={`mailto:${this.props.student.email}`} className="icons"><FontAwesomeIcon icon={faEnvelope}  /></a>)
                         : (<></>)}
                         </div>
-                        {this.props.student.resume &&
-                          <>
-                            <ResumeDialog student={this.props.student}/>
-                            <CapstoneDialog student={this.props.student}/>
-                          </>
-                        }
+                        {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
+                        {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
                     </div>
                 </div>
             </>
