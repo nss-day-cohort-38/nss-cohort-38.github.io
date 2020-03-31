@@ -278,7 +278,8 @@ export default [
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
             "isHired": false,
-            "resume": "CharlesJackson-resume.pdf"
+            "resume": "CharlesJackson-resume.pdf",
+            "capstoneURL": "xwceyhyTRq0"
         },
         {
             "id": 19,
@@ -294,7 +295,7 @@ export default [
             "funImg": "michelle_fun.png",
             "isHired": false,
             "resume": "MichelleJohnson-resume.pdf",
-            "capstoneURL": "smL6prRZoNk",
+            "capstoneURL": "smL6prRZoNk"
         },
         {
             "id": 20,
