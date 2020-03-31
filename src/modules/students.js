@@ -290,7 +290,7 @@ export default [
             "email": "michelle.sta.maria.johnson@gmail.com",
             "github": "https://github.com/stitchelle",
             "linkedIn": "https://www.linkedin.com/in/stitchelle/",
-            "portfolio": "",
+            "portfolio": "https://stitchelle.github.io/Michelle_Johnson/",
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
             "isHired": false,
