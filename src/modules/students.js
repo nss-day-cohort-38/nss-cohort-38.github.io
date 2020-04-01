@@ -30,21 +30,6 @@ export default [
             "isHired": true
         },
         {
-            "id": 3,
-            "firstName": "Matthew",
-            "lastName": "Blagg",
-            "quote": "Strength does not come from winning.  Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
-            "quoteAuthor": "-Arnold Schwarzenegger",
-            "github": "https://github.com/MatthewScott32",
-            "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
-            "portfolio": "https://matthewscott32.github.io/matthewblagg.github.io/",
-            "email": "matthewscottblagg@gmail.com",
-            "proImg": "matthew_serious.png",
-            "funImg": "matthew_fun.png",
-            "isHired": false,
-            "resume": "MatthewBlagg-resume.pdf"
-        },
-        {
             "id": 4,
             "firstName": "Cassandra",
             "lastName": "Boyd",
