@@ -134,7 +134,7 @@ export default [
             "email": "chatfield.shc@gmail.com",
             "github": "https://github.com/schatfield",
             "linkedIn": "https://www.linkedin.com/in/shawna-chatfield/",
-            "portfolio": "https://shawnachatfield.github.io/",
+            "portfolio": "",
             "proImg": "shawna_serious.png",
             "funImg": "shawna_fun.png",
             "isHired": false,
