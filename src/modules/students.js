@@ -433,7 +433,7 @@ export default [
             "email": "josephwalker504@gmail.com",
             "github": "https://github.com/josephwalker504",
             "linkedIn": "https://www.linkedin.com/in/josephwalker504/",
-            "portfolio": "https://josephwalker504.github.io",
+            "portfolio": "",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": false,
