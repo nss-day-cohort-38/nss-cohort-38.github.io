@@ -73,7 +73,7 @@ export default [
             "portfolio": "",
             "proImg": "caroline_serious.png",
             "funImg": "caroline_serious.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "CarolineBrownlee-resume.pdf",
             "capstoneURL": "4HJNCYYHsgA"
         },
