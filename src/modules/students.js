@@ -12,7 +12,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "SofiaCandiani-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -28,7 +28,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "KeithPotempa-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -44,7 +44,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "LandonMorgan-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -60,7 +60,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MattReeds-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -76,7 +76,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "DustinMurdock-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -92,7 +92,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "AlyssaNycum-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -108,7 +108,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MollieGoforth-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -124,7 +124,7 @@ export default [
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "KurtKrafft-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -133,10 +133,10 @@ export default [
             "lastName": "Simeone",
             "quote": "It's fine to celebrate success but it is more important to heed the lessons of failure.",
             "quoteAuthor": "Bill Gates",
-            "email": "tyler.simeone@gmail.com(opens in new tab)",
             "github": "https://github.com/tyler-simeone",
             "linkedIn": "https://www.linkedin.com/in/tylersimeone",
             "portfolio": "",
+            "email": "tyler.simeone@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
@@ -149,10 +149,10 @@ export default [
             "lastName": "Sullins",
             "quote": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
             "quoteAuthor": "Viktor E. Frankl",
-            "email": "jcsullins222@yahoo.com(opens in new tab)",
             "github": "https://github.com/ChaseSully222",
             "linkedIn": "https://www.linkedin.com/in/chasesullins/",
             "portfolio": "",
+            "email": "jcsullins222@yahoo.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
@@ -165,10 +165,10 @@ export default [
             "lastName": "Nichols",
             "quote": "Sometimes a hypocrite is just a man in the process of changing.",
             "quoteAuthor": "Brandon Sanderson",
-            "email": "coopnich92@gmail.com(opens in new tab)",
             "github": "https://github.com/CoopNich",
             "linkedIn": "https://www.linkedin.com/in/coopnich/",
             "portfolio": "",
+            "email": "coopnich92@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
@@ -181,15 +181,14 @@ export default [
             "lastName": "Crawford",
             "quote": "Do or do not. There is no try.",
             "quoteAuthor": "Yoda",
-            "email": "castlecrawford13@gmail.com(opens in new tab)",
             "github": "https://github.com/castlesmadeofcode",
             "linkedIn": "linkedin.com/in/castlecrawford13/",
             "portfolio": "",
+            "email": "castlecrawford13@gmail.com",
             "proImg": "",
             "funImg": "",
-            "resume": "CastleCrawford-resume.pdf",
             "isHired": false,
-            "resume": "",
+            "resume": "CastleCrawford-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -198,14 +197,14 @@ export default [
             "lastName": "Kroeger",
             "quote": "<quote>TODO: PUT QUOTE HERE</quote>",
             "quoteAuthor": "Me",
-            "email": "matt.kroogz@gmail.com(opens in new tab)",
             "github": "https://github.com/mKroogz",
             "linkedIn": "https://www.linkedin.com/in/matthewkroeger/",
             "portfolio": "",
+            "email": "matt.kroogz@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MatthewKroeger-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -214,14 +213,14 @@ export default [
             "lastName": "Blagg",
             "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
             "quoteAuthor": "Ernest Hemingway",
-            "email": "matthewscottblagg@gmail.com(opens in new tab)",
             "github": "https://github.com/MatthewScott32",
             "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
             "portfolio": "https://matthewscott32.github.io/matthewblagg.github.io/",
+            "email": "matthewscottblagg@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MattBlagg-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -230,14 +229,14 @@ export default [
             "lastName": "Green",
             "quote": "Believe in yourself, who else (is going to) believe in you?... Believe in yourself, health is wealth.",
             "quoteAuthor": "2 Chainz",
-            "email": "green.andrew.b@gmail.com(opens in new tab)",
             "github": "https://github.com/agreen2601",
             "linkedIn": "https://www.linkedin.com/in/andrew--green/",
             "portfolio": "",
+            "email": "green.andrew.b@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "AndrewGreen-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -246,14 +245,14 @@ export default [
             "lastName": "Murdock",
             "quote": "Without change something sleeps inside us and seldom awakens. The sleeper must awaken.",
             "quoteAuthor": "―Frank Herbert, Dune",
-            "email": "warhammer4563@gmail.com",
             "github": "https://github.com/RockMurdock",
             "linkedIn": "https://www.linkedin.com/in/cody-murdock-a7310bb5/",
             "portfolio": "",
+            "email": "warhammer4563@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "CodyMurdock-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -262,14 +261,14 @@ export default [
             "lastName": "Baker",
             "quote": "How can sky be the limit when there's footprints on the moon?",
             "quoteAuthor": "-Sir Robert Bryson Hall II",
-            "email": "mattbaker2281@gmail.com",
             "github": "https://github.com/matthewbaker22",
             "linkedIn": "https://www.linkedin.com/in/matthewbaker20/",
             "portfolio": "https://matthewbaker22.github.io/",
+            "email": "mattbaker2281@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MatthewBaker-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -278,14 +277,14 @@ export default [
             "lastName": "Terry",
             "quote": "One day there won't be female leaders. There will just be leaders.",
             "quoteAuthor": "",
-            "email": "trinitycterry@gmail.com",
             "github": "https://github.com/TrinityTerry",
             "linkedIn": "https://www.linkedin.com/in/trinityterry/",
             "portfolio": "https://trinitychristiana.netlify.app/",
+            "email": "trinitycterry@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "TrinityTerry-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -294,14 +293,14 @@ export default [
             "lastName": "Prince",
             "quote": "Alice: This is impossible. The Mad Hatter: Only if you believe it is.",
             "quoteAuthor": "",
-            "email": "michaelprince3@gmail.com",
             "github": "https://github.com/michaelprince3",
             "linkedIn": "www.linkedin.com/in/michaelprince3",
             "portfolio": "",
+            "email": "michaelprince3@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "JosephPrince-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -310,14 +309,14 @@ export default [
             "lastName": "Wohl",
             "quote": "Perhaps there is a language which is not made of words and everything in the world understands it.",
             "quoteAuthor": "-Frances Hodgson Burnett",
-            "email": "ktwohl@gmail.com",
             "github": "https://github.com/kwohl",
             "linkedIn": "https://www.linkedin.com/in/katie-wohl/",
             "portfolio": "",
+            "email": "ktwohl@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "KathrynWohl-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -326,14 +325,14 @@ export default [
             "lastName": "Mann",
             "quote": "If you get tired, learn to rest, not to quit.",
             "quoteAuthor": " ― Banksy",
-            "email": "bito@bitomann.com",
             "github": "https://github.com/bitomann?tab=repositories",
             "linkedIn": "https://www.linkedin.com/in/bitomann/",
             "portfolio": "bitomann.com",
+            "email": "bito@bitomann.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "BitoMann-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -342,14 +341,14 @@ export default [
             "lastName": "Clark",
             "quote": "I want to stay as close to the edge as I can without going over. Out on the edge you see all kinds of things you can't see from the center.",
             "quoteAuthor": "-Kurt Vonnegut",
-            "email": "michaelclarknashville@protonmail.com",
             "github": "https://github.com/mister-michael",
             "linkedIn": "https://www.linkedin.com/in/michaelclarknashville/",
             "portfolio": "",
+            "email": "michaelclarknashville@protonmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MichaelClark-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -358,14 +357,14 @@ export default [
             "lastName": "Crook",
             "quote": "Fill the unforgiving minute with sixty seconds worth of distance run.",
             "quoteAuthor": "- Rudyard Kipling",
-            "email": "matt.crook11@gmail.com",
             "github": "https://github.com/MattCrook",
             "linkedIn": "https://www.linkedin.com/in/mattcrook11/",
             "portfolio": "https://matt-crook-io.now.sh/",
+            "email": "matt.crook11@gmail.com",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "MattCrook-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -374,14 +373,14 @@ export default [
             "lastName": "Parsons",
             "quote": "Doing the same thing over and over again and expecting different results is the definition of software development.",
             "quoteAuthor": " -Andy Collins",
-            "email": "jcksnparsons@gmail.com",
             "github": "https://github.com/jcksnparsons",
             "linkedIn": "https://www.linkedin.com/in/jackson-parsons/",
             "portfolio": "",
+            "email": "jcksnparsons@gmail.com",
             "proImg": "",
             "funImg": "s",
             "isHired": false,
-            "resume": "",
+            "resume": "JackParsons-resume.pdf",
             "capstoneURL": ""
         },
         {
@@ -390,14 +389,14 @@ export default [
             "lastName": "Mattingly",
             "quote": "",
             "quoteAuthor": "",
-            "email": "",
             "github": "",
             "linkedIn": "",
             "portfolio": "",
+            "email": "",
             "proImg": "",
             "funImg": "",
             "isHired": false,
-            "resume": "",
+            "resume": "JeremyMattingly-resume.pdf",
             "capstoneURL": ""
         }
 ]
