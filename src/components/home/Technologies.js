@@ -55,6 +55,10 @@ const Technologies = () => (
                     <div className="technologyText">NPM</div>
                 </div>
                 <div className="cardContainer">
+                    <img className="techImage" src="https://nextfaze.gallerycdn.vsassets.io/extensions/nextfaze/json-parse-stringify/1.0.2/1519864325244/Microsoft.VisualStudio.Services.Icons.Default" alt="JSON Icon"></img>
+                    <div className="technologyText">JSON</div>
+                </div>
+                <div className="cardContainer">
                     <img className="techImage" src="https://getdrawings.com/free-icon/sql-server-icon-51.png" alt="SQL Icon"></img>
                     <div className="technologyText">SQL</div>
                 </div>
