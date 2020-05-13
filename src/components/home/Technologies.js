@@ -42,14 +42,14 @@ const Technologies = () => (
                     <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/css3.png" alt="CSS3 Icon"></img>
                     <div className="technologyText">CSS3</div>
                 </div>
-                <div className="cardContainer">
+                {/* <div className="cardContainer">
                     <img className="techImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="Bootstrap Icon"></img>
                     <div className="technologyText">Bootstrap</div>
-                </div>
-                <div className="cardContainer">
+                </div> */}
+                {/* <div className="cardContainer">
                     <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/webpack.png" alt="Webpack Icon"></img>
                     <div className="technologyText">Webpack</div>
-                </div>
+                </div> */}
                 <div className="cardContainer">
                     <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/npm.png" alt="NPM Icon"></img>
                     <div className="technologyText">NPM</div>
