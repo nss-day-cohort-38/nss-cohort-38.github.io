@@ -1,18 +1,17 @@
-# Welcome to the Cohort 36 Class Website!
+# Welcome to the Cohort 38 Class Website!
 ![image](./website.png)
 
-### Meet Cohort 36!
-We are a diverse array of people from many different industries. Our work experience includes that of military veterans, writers, musicians, IT professionals, graphic designers, medics, food service professionals, salespeople, librarians, stay-at-home moms, and more. We come from different backgrounds, but we all have something in common. We are a passionate, hardworking, problem solving, meme making group of people who came together for the experience of a lifetime.
+### Meet Cohort 38!
+We are a group of people with diverse work experience including musicians, health care professionals, military veterans, and more. We came together to learn ReactJS, JavaScript, Python, and Django at Nashville Software School. We had no idea that we'd quickly find there is much more to coding than learning a language and that COVID-19 would arrive and challenge us like never before.
 
-Six months ago, we set out to conquer ReactJS, JavaScript, Python, and Django. Throughout our journey, we laughed together, failed together, triumphed together, learned how to learn together, and we became family. We have grown not only as developers, but also as humans, realizing that the sky is the limit if you have determination and an endless thirst for learning. Now we are ready to channel our passion for software development into jobs where we can continue learning and making a difference.
+Initially, we discovered the importance of clear group communication, developing fundamental problem solving skills, and enjoying the path of trial and error. However, COVID-19 affected us during our first independent ReactJS projects and we had to quickly adapt from learning full time on site to fully remote. Nonetheless, 
+we continued to gather remotely and support each other in continuing our path to growing as software developers. 
 
+Our determination, passion for code, and relentless optimism has helped us realize that we can learn throughout our obstacles and from how we face them. Now we are ready to move forward into jobs where we can continue our learning journeys and contribute to a new working environment.  
 
 We are software developers.
 
-We are Cohort 36.
-
-🌮🎾🎤🐒🐓
-
+We are Cohort 38.
 
 ## To Install 
 1. In your terminal, run `git clone SSH KEY HERE`
