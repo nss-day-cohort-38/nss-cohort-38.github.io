@@ -57,8 +57,8 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/michaelclarknashville/",
             "portfolio": "",
             "email": "michaelclarknashville@protonmail.com",
-            "proImg": "",
-            "funImg": "",
+            "proImg": "clark_m.png",
+            "funImg": "clark_m.png",
             "isHired": false,
             "resume": "MichaelClark-resume.pdf",
             "capstoneURL": ""
@@ -202,7 +202,7 @@ export default [
             "portfolio": "https://iandonmorgan.github.io/",
             "email": "morganlandon@gmail.com",
             "proImg": "morgan_l.png",
-            "funImg": "morgan_l.png",
+            "funImg": "morgan_l_fun.png",
             "isHired": false,
             "resume": "LandonMorgan-resume.pdf",
             "capstoneURL": ""
