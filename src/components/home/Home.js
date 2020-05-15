@@ -67,7 +67,7 @@ class Home extends Component {
         <section id="about">
           <AboutUs />
         </section>
-        <Podcasts></Podcasts>
+        {/* <Podcasts></Podcasts> */}
         <div id="devs" className="container-cards">
           {this.state.students.map(student =>
             <StudentCard
@@ -88,7 +88,7 @@ class Home extends Component {
           <Thanks />
         </section>
 
-        <footer>© 2020. Nashville Software School Day Cohort 36.</footer>
+        <footer>© 2020. Nashville Software School Day Cohort 38.</footer>
       </>
     )
   }
