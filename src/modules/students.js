@@ -1,8 +1,8 @@
 export default [
-        {
+          {
             "id": 1,
-            "firstName": "Jeremiah",
-            "lastName": "Bell",
+            "firstName": "Joe",
+            "lastName": "Beans",
             "quote": "I will succeed because I am willing to fail more than most are willing to try.",
             "quoteAuthor": "",
             "github": "https://github.com/Belljeremiah",
@@ -11,14 +11,12 @@ export default [
             "email": "jeremiah.bell812.topper@gmail.com",
             "proImg": "jeremiah_serious.png",
             "funImg": "jeremiah_fun.png",
-            "isHired": false,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "stAIvRPedSw"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 2,
-            "firstName": "Ryan",
-            "lastName": "Bishop",
+            "firstName": "Joe",
+            "lastName": "Beans",
             "quote": "The only wealth which you will keep forever is the wealth you have given away.",
             "quoteAuthor": "-Marcus Aurelius",
             "github": "https://github.com/rdbishop19",
@@ -27,9 +25,23 @@ export default [
             "email": "rdbishop06@gmail.com",
             "proImg": "ryan_bishop_serious.png",
             "funImg": "ryan_bishop_fun.png",
-            "isHired": true
-        },
-        {
+            "isHired": false
+          },
+          {
+            "id": 3,
+            "firstName": "Joe",
+            "lastName": "Beans",
+            "quote": "Strength does not come from winning.  Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+            "quoteAuthor": "-Arnold Schwarzenegger",
+            "github": "https://github.com/MatthewScott32",
+            "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
+            "portfolio": "https://matthewblagg.github.io/",
+            "email": "matthewscottblagg@gmail.com",
+            "proImg": "matthew_serious.png",
+            "funImg": "matthew_fun.png",
+            "isHired": false
+          },
+          {
             "id": 4,
             "firstName": "Cassandra",
             "lastName": "Boyd",
@@ -41,11 +53,9 @@ export default [
             "portfolio": "https://cassieboyd.github.io/",
             "proImg": "cassandra_serious.png",
             "funImg": "cassandra_fun.png",
-            "isHired": false,
-            "resume": "CassieBoyd-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 5,
             "firstName": "Ken",
             "lastName": "Boyd",
@@ -57,11 +67,9 @@ export default [
             "portfolio": "",
             "proImg": "kenneth_serious.png",
             "funImg": "kenneth_fun.png",
-            "isHired": false,
-            "resume": "KenBoyd-resume.pdf",
-            "capstoneURL": "ZSl69af83pg"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 6,
             "firstName": "Caroline",
             "lastName": "Brownlee",
@@ -73,11 +81,9 @@ export default [
             "portfolio": "",
             "proImg": "caroline_serious.png",
             "funImg": "caroline_serious.png",
-            "isHired": true,
-            "resume": "CarolineBrownlee-resume.pdf",
-            "capstoneURL": "4HJNCYYHsgA"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 7,
             "firstName": "Manila",
             "lastName": "Bui",
@@ -89,27 +95,25 @@ export default [
             "portfolio": "https://manilabui.com/",
             "proImg": "manila_serious.png",
             "funImg": "manila_fun.png",
-            "isHired": false,
-            "resume": "ManilaBui-resume.pdf",
-            "capstoneURL": "kLW4DvbuWp4"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 8,
-            "firstName": "Adam",
-            "lastName": "Byrd",
-            "quote": "If you believe in yourself and have dedication and pride, and never quit, you'll be a winner. The price of victory is high but so are the rewards.",
-            "quoteAuthor": "-Bear Bryant",
-            "email": "ajbyrd0723@gmail.com",
-            "github": "https://github.com/ajbyrd",
-            "linkedIn": "https://www.linkedin.com/in/adambyrd0723/",
-            "portfolio": "https://ajbyrd.github.io/adambyrd/",
-            "proImg": "adam_serious.png",
-            "funImg": "adam_fun.png",
+            "firstName": "Kurt",
+            "lastName": "Krafft",
+            "quote": "True terror is to wake up one morning and discover that your high school class is running the country.",
+            "quoteAuthor": "- Kurt Vonnegut",
+            "email": "kurtkrafft3@gmail.com",
+            "github": "https://github.com/kurtkrafft1",
+            "linkedIn": "https://www.linkedin.com/in/kurtkrafft/",
+            "portfolio": "https://kurtkrafft1.github.io/",
+            "proImg": "kurt_serious.jpg",
+            "funImg": "kurt_fun.jpg",
             "isHired": false,
-            "resume": "AdamByrd-resume.pdf",
-            "capstoneURL": "XDJJkwKScgU"
-        },
-        {
+            "resume": "KurtKrafft-resume.pdf",
+            "capstoneURL": ""
+          },
+          {
             "id": 9,
             "firstName": "James",
             "lastName": "Chapman",
@@ -121,11 +125,9 @@ export default [
             "portfolio": "https://chapmanjamesg.github.io/",
             "proImg": "james_serious.png",
             "funImg": "james_fun.png",
-            "isHired": false,
-            "resume": "JamesChapman-resume.pdf",
-            "capstoneURL": "t8jQHk6kmGM"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 10,
             "firstName": "Shawna",
             "lastName": "Chatfield",
@@ -134,14 +136,12 @@ export default [
             "email": "chatfield.shc@gmail.com",
             "github": "https://github.com/schatfield",
             "linkedIn": "https://www.linkedin.com/in/shawna-chatfield/",
-            "portfolio": "",
+            "portfolio": "https://shawnachatfield.github.io/",
             "proImg": "shawna_serious.png",
             "funImg": "shawna_fun.png",
-            "isHired": false,
-            "resume": "ShawnaChatfield-resume.pdf",
-            "capstoneURL": "xlgCh2PP5dc"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 11,
             "firstName": "Guy",
             "lastName": "Cherkesky",
@@ -153,11 +153,9 @@ export default [
             "portfolio": "https://www.cherkesky.com",
             "proImg": "guy_serious.png",
             "funImg": "guy_fun.png",
-            "isHired": false,
-            "resume": "GuyCherkesky-resume.pdf",
-            "capstoneURL": "oG92MiNRykk"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 12,
             "firstName": "Ryan",
             "lastName": "Crowley",
@@ -169,9 +167,9 @@ export default [
             "portfolio": "https://ryancrowleycode.github.io/",
             "proImg": "ryan_crowley_serious.png",
             "funImg": "ryan_crowley_fun.png",
-            "isHired": true
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 13,
             "firstName": "Ryan",
             "lastName": "Cunningham",
@@ -183,27 +181,23 @@ export default [
             "portfolio": "https://rhc822.github.io/",
             "proImg": "ryan_cunningham_serious.png",
             "funImg": "ryan_cunningham_serious.png",
-            "isHired": false,
-            "resume": "RyanCunningham-resume.pdf",
-            "capstoneURL": "8gSbEki88Qo"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 14,
             "firstName": "Chase",
             "lastName": "Fite",
-            "quote": "Luck is what happens when preparation meets opportunity - Seneca",
+            "quote": "Success is that moment when preparation meets opportunity.",
             "quoteAuthor": "",
             "email": "chasef7031@gmail.com",
             "github": "https://github.com/chase-fite",
             "linkedIn": "https://www.linkedin.com/in/chase-fite/",
-            "portfolio": "https://chase-fite.github.io/",
+            "portfolio": "https://github.com/chase-fite",
             "proImg": "chase_serious.png",
             "funImg": "chase_serious.png",
-            "isHired": false,
-            "resume": "ChaseFite-resume.pdf",
-            "capstoneURL": "ri4LpJwyqyY"
+            "isHired": false
           },
-        {
+          {
             "id": 15,
             "firstName": "Julian",
             "lastName": "Garcia",
@@ -215,11 +209,9 @@ export default [
             "portfolio": "",
             "proImg": "julian_serious.png",
             "funImg": "julian_fun.png",
-            "isHired": false,
-            "resume": "JulianGarcia-resume.pdf",
-            "capstoneURL": "Yrkd01jP5xU"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 16,
             "firstName": "Corri",
             "lastName": "Golden",
@@ -228,14 +220,12 @@ export default [
             "email": "brantleyjones74@gmail.com",
             "github": "https://github.com/corri-golden",
             "linkedIn": "https://www.linkedin.com/in/corri-golden/",
-            "portfolio": "https://corri-golden.github.io/personal-website/",
+            "portfolio": "https://corri-golden.github.io/",
             "proImg": "corri_serious.png",
             "funImg": "corri_fun.png",
-            "isHired": false,
-            "resume": "CorriGolden-resume.pdf",
-            "capstoneURL": "UDKk0354HwA"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 17,
             "firstName": "Sophia",
             "lastName": "Hoffman",
@@ -247,10 +237,9 @@ export default [
             "portfolio": "",
             "proImg": "sophia_serious.png",
             "funImg": "sophia_fun.png",
-            "isHired": false,
-            "resume": "SophiaHoffman-resume.pdf"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 18,
             "firstName": "Charles",
             "lastName": "Jackson",
@@ -262,182 +251,217 @@ export default [
             "portfolio": "http://cpjackson777.github.io/",
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
-            "isHired": false,
-            "resume": "CharlesJackson-resume.pdf",
-            "capstoneURL": "xwceyhyTRq0"
-        },
-        {
+            "isHired": false
+          },
+          {
             "id": 19,
             "firstName": "Michelle S",
             "lastName": "Johnson",
             "quote": "Always be yourself unless you can be Stitch, then always be Stitch.",
             "quoteAuthor": "",
-            "email": "michelle.sta.maria.johnson@gmail.com",
+            "email": "bob1234girl@gmail.com",
             "github": "https://github.com/stitchelle",
             "linkedIn": "https://www.linkedin.com/in/stitchelle/",
-            "portfolio": "https://stitchelle.github.io/Michelle_Johnson/",
+            "portfolio": "",
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
-            "isHired": false,
-            "resume": "MichelleJohnson-resume.pdf",
-            "capstoneURL": "smL6prRZoNk"
-        },
-        {
-            "id": 20,
-            "firstName": "John",
-            "lastName": "Long",
-            "quote": "Every day is a step forward - don't ever stop walking & you'll be amazed where you end up.",
-            "quoteAuthor": "",
-            "email": "jlcomp45@gmail.com",
-            "github": "https://github.com/JohnALong",
-            "linkedIn": "https://www.linkedin.com/in/john-a-long/",
-            "portfolio": "https://johnandrewlong.com",
-            "proImg": "john_serious.png",
-            "funImg": "john_fun.png",
-            "isHired": false,
-            "resume": "JohnLong-resume.pdf",
-            "capstoneURL": "D2dnW3m7XRI"
-        },
-        {
-            "id": 21,
-            "firstName": "Jesie",
-            "lastName": "Oldenburg",
-            "quote": "If you want to figure out how it works, take it apart then put it back together again.",
-            "quoteAuthor": "",
-            "email": "jesie.oldenburg@outlook.com",
-            "github": "https://github.com/jesieOldenburg",
-            "linkedIn": "https://www.linkedin.com/in/jesieoldenburg/",
-            "portfolio": "https://jesieoldenburg.github.io/",
-            "proImg": "jesie_serious.png",
-            "funImg": "jesie_serious.png",
-            "isHired": false,
-            "resume": "JesieOldenburg-resume.pdf",
-            "capstoneURL": "Z_U0FkDZvnA"
-        },
-        {
-            "id": 22,
-            "firstName": "Sullivan",
-            "lastName": "Pierce",
-            "quote": "All we have to decide is what to do with the time that is given us.",
-            "quoteAuthor": "-The Lord of the Rings",
-            "email": "sullypierce@gmail.com",
-            "github": "https://github.com/sullypierce",
-            "linkedIn": "https://www.linkedin.com/in/sullivan-pierce/",
-            "portfolio": "http://sullypierce.github.io/",
-            "proImg": "sullivan_serious.png",
-            "funImg": "sullivan_fun.png",
-            "isHired": false,
-            "resume": "SullyPierce-resume.pdf",
-            "capstoneURL": "sYCKTcyANSs"
-        },
-        {
-            "id": 23,
-            "firstName": "Christian",
-            "lastName": "Pippin",
-            "quote": "The pen isn't mightier than the sword. Pens don't win battles, and swords don't write poetry. Mighty is the hand that knows when to pick the pen and when to pick the sword.",
-            "quoteAuthor": "",
-            "email": "ianpippin@gmail.com",
-            "github": "https://github.com/christianpippin98",
-            "linkedIn": "https://www.linkedin.com/in/christianpippin98/",
-            "portfolio": "",
-            "proImg": "christian_serious.png",
-            "funImg": "christian_fun.png",
-            "isHired": false,
-            "resume": "ChristianPippin-resume.pdf",
-            "capstoneURL": "Q4fHmncsJUY"
-        },
-        {
-            "id": 24,
-            "firstName": "Sam",
-            "lastName": "Pita",
-            "quote": "Why, sometimes I've believed as many as six impossible things before breakfast.",
-            "quoteAuthor": "-Alice in Wonderland",
-            "email": "samanthakpita@gmail.com",
-            "github": "https://github.com/sampita",
-            "linkedIn": "https://www.linkedin.com/in/samanthapita/",
-            "portfolio": "https://sampita.github.io/",
-            "proImg": "sam_serious.png",
-            "funImg": "sam_fun.png",
-            "isHired": true
-        },
-        {
-            "id": 25,
-            "firstName": "Erin",
-            "lastName": "Polley",
-            "quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.",
-            "quoteAuthor": "-J.K. Rowling",
-            "email": "erinepolley@gmail.com",
-            "github": "https://github.com/erinepolley",
-            "linkedIn": "https://www.linkedin.com/in/erinepolley/",
-            "portfolio": "https://erinepolley.github.io/",
-            "proImg": "erin_serious.png",
-            "funImg": "erin_fun.png",
-            "isHired": false,
-            "resume": "ErinPolley-resume.pdf",
-            "capstoneURL": "Hqw3zeqZ8vc"
-        },
-        {
-            "id": 26,
-            "firstName": "Lauren",
-            "lastName": "Riddle",
-            "quote": "No one has ever become poor by giving.",
-            "quoteAuthor": "-Anne Frank",
-            "email": "lari7132@gmail.com",
-            "github": "https://github.com/laurenriddle",
-            "linkedIn": "https://www.linkedin.com/in/lauren-riddle/",
-            "portfolio": "https://laurenriddle.github.io/laurenriddle/",
-            "proImg": "lauren_serious.png",
-            "funImg": "lauren_fun.png",
-            "isHired": false,
-            "resume": "LaurenRiddle-resume.pdf",
-            "capstoneURL": "YdQe-vRHBe8"
-        },
-        {
-            "id": 27,
-            "firstName": "Melody",
-            "lastName": "Stern",
-            "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
-            "quoteAuthor": "-Viktor Frankl",
-            "email": "melody@melodystern.com",
-            "github": "http://www.github.com/melliemuse",
-            "linkedIn": "http://www.linkedin.com/melodystern",
-            "portfolio": "",
-            "proImg": "melody_serious.png",
-            "funImg": "melody_fun.png",
-            "isHired": false,
-            "resume": "MelodyStern-resume.pdf",
-            "capstoneURL": "8XJ80SfFaN0"
-        },
-        {
-            "id": 28,
-            "firstName": "Trey",
-            "lastName": "Suiter",
-            "quote": "No such thing as spare time, no such thing as free time, no such thing as down time. All you got is lifetime. Go.",
-            "quoteAuthor": "-Henry Rollins",
-            "email": "trey.suiter@gmail.com",
-            "github": "https://github.com/treysuiter",
-            "linkedIn": "https://www.linkedin.com/in/treysuiter/",
-            "portfolio": "https://treysuiter.github.io/",
-            "proImg": "trey_serious.png",
-            "funImg": "trey_fun.png",
-            "isHired": false,
-            "resume": "TreySuiter-resume.pdf",
-            "capstoneURL": "th8wHFc4GZo"
-        },
-        {
-            "id": 29,
-            "firstName": "Joseph",
-            "lastName": "Walker",
-            "quote": "Today is a good day to have a good day.",
-            "quoteAuthor": "",
-            "email": "josephwalker504@gmail.com",
-            "github": "https://github.com/josephwalker504",
-            "linkedIn": "https://www.linkedin.com/in/josephwalker504/",
-            "portfolio": "",
-            "proImg": "joseph_serious.png",
-            "funImg": "joseph_fun.png",
-            "isHired": false,
-            "resume": "JosephWalker-resume.pdf",
-            "capstoneURL": "1Xi3ABCW6E0"
-        }
+            "isHired": false
+          }
+        //   ,
+        //   {
+        //     "id": 20,
+        //     "firstName": "Katie",
+        //     "lastName": "Wohl",
+        //     "quote": "Perhaps there is a language which is not made of words and everything in the world understands it.",
+        //     "quoteAuthor": "-Frances Hodgson Burnett",
+        //     "email": "ktwohl@gmail.com",
+        //     "github": "https://github.com/kwohl",
+        //     "linkedIn": "https://www.linkedin.com/in/katie-wohl/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false
+        //   },
+        //   {
+        //     "id": 21,
+        //     "firstName": "Bito",
+        //     "lastName": "Mann",
+        //     "quote": "If you get tired, learn to rest, not to quit.",
+        //     "quoteAuthor": " ― Banksy",
+        //     "email": "bito@bitomann.com",
+        //     "github": "https://github.com/bitomann?tab=repositories",
+        //     "linkedIn": "https://www.linkedin.com/in/bitomann/",
+        //     "portfolio": "bitomann.com",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false
+        //   },
+        //   {
+        //     "id": 22,
+        //     "firstName": "Michael",
+        //     "lastName": "Clark",
+        //     "quote": "I want to stay as close to the edge as I can without going over. Out on the edge you see all kinds of things you can't see from the center.",
+        //     "quoteAuthor": "-Kurt Vonnegut",
+        //     "email": "michaelclarknashville@protonmail.com",
+        //     "github": "https://github.com/mister-michael",
+        //     "linkedIn": "https://www.linkedin.com/in/michaelclarknashville/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false
+        //   },
+        //   {
+        //     "id": 23,
+        //     "firstName": "Matt",
+        //     "lastName": "Crook",
+        //     "quote": "Fill the unforgiving minute with sixty seconds worth of distance run.",
+        //     "quoteAuthor": "- Rudyard Kipling",
+        //     "email": "matt.crook11@gmail.com",
+        //     "github": "https://github.com/MattCrook",
+        //     "linkedIn": "https://www.linkedin.com/in/mattcrook11/",
+        //     "portfolio": "https://matt-crook-io.now.sh/",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false
+        //   },
+        //   {
+        //     "id": 24,
+        //     "firstName": "Jack",
+        //     "lastName": "Parsons",
+        //     "quote": "Doing the same thing over and over again and expecting different results is the definition of software development.",
+        //     "quoteAuthor": " -Andy Collins",
+        //     "email": "jcksnparsons@gmail.com",
+        //     "github": "https://github.com/jcksnparsons",
+        //     "linkedIn": "https://www.linkedin.com/in/jackson-parsons/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "s",
+        //     "isHired": true
+        //   },
+        //   {
+        //     "id": 25,
+        //     "firstName": "Erin",
+        //     "lastName": "Polley",
+        //     "quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all.",
+        //     "quoteAuthor": "-J.K. Rowling",
+        //     "email": "erinepolley@gmail.com",
+        //     "github": "https://github.com/erinepolley",
+        //     "linkedIn": "https://www.linkedin.com/in/erinepolley/",
+        //     "portfolio": "https://erinepolley.github.io/",
+        //     "proImg": "erin_serious.png",
+        //     "funImg": "erin_fun.png",
+        //     "isHired": false
+        //   },
+
+        // {
+        //     "id": 9,
+        //     "firstName": "Tyler",
+        //     "lastName": "Simeone",
+        //     "quote": "It's fine to celebrate success but it is more important to heed the lessons of failure.",
+        //     "quoteAuthor": "Bill Gates",
+        //     "email": "tyler.simeone@gmail.com(opens in new tab)",
+        //     "github": "https://github.com/tyler-simeone",
+        //     "linkedIn": "https://www.linkedin.com/in/tylersimeone",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false,
+        //     "resume": "TylerSimeone-resume.pdf",
+        //     "capstoneURL": ""
+        // },
+        // {
+        //     "id": 10,
+        //     "firstName": "Chase",
+        //     "lastName": "Sullins",
+        //     "quote": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+        //     "quoteAuthor": "Viktor E. Frankl",
+        //     "email": "jcsullins222@yahoo.com(opens in new tab)",
+        //     "github": "https://github.com/ChaseSully222",
+        //     "linkedIn": "https://www.linkedin.com/in/chasesullins/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false,
+        //     "resume": "ChaseSullins-resume.pdf",
+        //     "capstoneURL": ""
+        // },
+        // {
+        //     "id": 11,
+        //     "firstName": "Cooper",
+        //     "lastName": "Nichols",
+        //     "quote": "Sometimes a hypocrite is just a man in the process of changing.",
+        //     "quoteAuthor": "Brandon Sanderson",
+        //     "email": "coopnich92@gmail.com(opens in new tab)",
+        //     "github": "https://github.com/CoopNich",
+        //     "linkedIn": "https://www.linkedin.com/in/coopnich/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false,
+        //     "resume": "CooperNichols-resume.pdf",
+        //     "capstoneURL": ""
+        // },
+        // {
+        //     "id": 12,
+        //     "firstName": "Castle",
+        //     "lastName": "Crawford",
+        //     "quote": "Do or do not. There is no try.",
+        //     "quoteAuthor": "Yoda",
+        //     "email": "castlecrawford13@gmail.com(opens in new tab)",
+        //     "github": "https://github.com/castlesmadeofcode",
+        //     "linkedIn": "linkedin.com/in/castlecrawford13/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "resume": "CastleCrawford-resume.pdf",
+        //     "isHired": true
+        // },
+        // {
+        //     "id": 13,
+        //     "firstName": "Matthew",
+        //     "lastName": "Kroeger",
+        //     "quote": "<quote>TODO: PUT QUOTE HERE</quote>",
+        //     "quoteAuthor": "Me",
+        //     "email": "matt.kroogz@gmail.com(opens in new tab)",
+        //     "github": "https://github.com/mKroogz",
+        //     "linkedIn": "https://www.linkedin.com/in/matthewkroeger/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false,
+        //     "resume": "MatthewKroeger-resume.pdf",
+        //     "capstoneURL": ""
+        // },
+        // {
+        //     "id": 14,
+        //     "firstName": "Matthew",
+        //     "lastName": "Blagg",
+        //     "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+        //     "quoteAuthor": "Ernest Hemingway",
+        //     "email": "matthewscottblagg@gmail.com(opens in new tab)",
+        //     "github": "https://github.com/MatthewScott32",
+        //     "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
+        //     "portfolio": "https://matthewscott32.github.io/matthewblagg.github.io/",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false,
+        //     "resume": "MatthewBlagg-resume.pdf",
+        //     "capstoneURL": ""
+        //   },
+        // {
+        //     "id": 15,
+        //     "firstName": "Andrew",
+        //     "lastName": "Green",
+        //     "quote": "Believe in yourself, who else (is going to) believe in you?... Believe in yourself, health is wealth.",
+        //     "quoteAuthor": "2 Chainz",
+        //     "email": "green.andrew.b@gmail.com(opens in new tab)",
+        //     "github": "https://github.com/agreen2601",
+        //     "linkedIn": "https://www.linkedin.com/in/andrew--green/",
+        //     "portfolio": "",
+        //     "proImg": "",
+        //     "funImg": "",
+        //     "isHired": false,
+        //     "resume": "AndrewGreen-resume.pdf",
+        //     "capstoneURL": ""
+        // },
 ]
