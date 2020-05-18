@@ -80,6 +80,28 @@ img#smallicon {
   padding: 15px;
  
 }
+.hidden-header{
+  visibility: none;
+  display: none;
+}
 /* .carousel-inner{
   box-shadow: 0 6px 6px -2px rgba(218, 216, 216, 0.322) !important;
 } */
+
+@media only screen and (max-width: 800px) {
+  .hidden-header{
+    visibility: visible;
+    display: flex;
+    /* justify-content: center; */
+    padding:  10px;
+    font-size: 25px;
+    margin: 0;
+    background: white !important;
+    color: black !important;
+  }
+  .navbar-toggler{
+    margin-bottom: 20%;
+    background-color: white !important;
+  }
+
+}
