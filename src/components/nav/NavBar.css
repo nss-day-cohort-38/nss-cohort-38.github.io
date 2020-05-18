@@ -9,6 +9,7 @@ header {
   border: none;
 }
 
+
 .site-title {
   color: rgb(255, 255, 255);
   text-align: center;
@@ -21,10 +22,14 @@ header {
 .flex-item {
   flex-basis: 100%;
 }
+nav {
+  height: 80px;
+}
 
 nav .container {
   display: flex; 
   margin-bottom: 0;
+  padding-bottom: 20px;
   /* padding-right: 150px; */
   /* align-items: flex-start; */
 }
@@ -72,6 +77,10 @@ nav .container a:hover {
   width: 90px;
 }
 
+.navbar-brand{
+  padding-bottom: 30px !important;
+
+}
 
 
 @media only screen and (max-width: 800px) {
@@ -93,6 +102,9 @@ nav .container a:hover {
   }
   #center-nav-elements {
     align-items: start;
+  }
+  .navbar-brand{
+    visibility: hidden;
   }
 }
 .navbar-fixed-top {

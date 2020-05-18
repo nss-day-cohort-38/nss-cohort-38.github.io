@@ -63,7 +63,6 @@ class Home extends Component {
             />
           </Carousel.Item>
         </Carousel>
-
         <section id="about">
           <AboutUs />
         </section>
