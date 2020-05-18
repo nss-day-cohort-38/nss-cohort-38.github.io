@@ -9,7 +9,6 @@ import ErrorOutlineIcon from '@material-ui/icons/ErrorOutline';
 import ResumeDialog from './studentResume'
 import CapstoneDialog from './studentCapstone'
 
-
 class StudentCard extends Component {
     render() {
         return (

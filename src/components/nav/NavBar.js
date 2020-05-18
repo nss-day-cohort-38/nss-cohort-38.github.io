@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link, withRouter } from "react-router-dom"
-import logo from './36logo.png'
+import logo from './38logo.png'
 import './NavBar.css'
 import { Navbar, Nav, Button } from "react-bootstrap"
 // Author: Lauren Riddle
@@ -20,7 +20,7 @@ const NavBar = () => (
                 <Nav.Link className="nav-a" href="#devs">Developers</Nav.Link>
                 <Nav.Link className="nav-a" href="#tech">Technologies</Nav.Link>
                 <Nav.Link className="nav-a" href="#thanks">Thanks</Nav.Link>
-                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">RSVP FOR DEMO DAY APRIL 3</Button>
+                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">RSVP FOR DEMO DAY JUNE 26</Button>
               </ul>
             </Navbar.Collapse>
           </Navbar>
