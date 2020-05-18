@@ -9,7 +9,6 @@ import ErrorOutlineIcon from '@material-ui/icons/ErrorOutline';
 import ResumeDialog from './studentResume'
 import CapstoneDialog from './studentCapstone'
 
-
 class StudentCard extends Component {
     render() {
         return (
@@ -26,8 +25,8 @@ class StudentCard extends Component {
                 <div className="card-content">
                     <div className="card-fx">
                       {/* <picture> */}
-                      <img src={`../../images/students/${this.props.student.proImg}`} alt="student-serious-photo" className="student-serious-photo"/>
-                      <img src={`../../images/students/${this.props.student.funImg}`} className="student-fun-photo" />
+                      <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" className="student-serious-photo"/>
+                      <img src={require(`../../images/students/${this.props.student.funImg}`)} className="student-fun-photo" />
                       {/* </picture> */}
                     </div>
                     <h2 className="student-name">{this.props.student.firstName} {this.props.student.lastName}</h2>

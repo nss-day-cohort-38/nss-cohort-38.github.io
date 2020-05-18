@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link, withRouter } from "react-router-dom"
-import logo from './36logo.png'
+import logo from './38logo.png'
 import './NavBar.css'
 import { Navbar, Nav, Button } from "react-bootstrap"
 // Author: Lauren Riddle
