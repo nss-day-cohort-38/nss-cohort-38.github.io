@@ -1,63 +1,6 @@
 export default [
           {
             "id": 1,
-<<<<<<< HEAD
-            "firstName": "Joe",
-            "lastName": "Beans",
-            "quote": "I will succeed because I am willing to fail more than most are willing to try.",
-            "quoteAuthor": "",
-            "github": "https://github.com/Belljeremiah",
-            "linkedIn": "https://www.linkedin.com/in/belljeremiah/",
-            "portfolio": "",
-            "email": "jeremiah.bell812.topper@gmail.com",
-            "proImg": "jeremiah_serious.png",
-            "funImg": "jeremiah_fun.png",
-            "isHired": false
-          },
-          {
-            "id": 2,
-            "firstName": "Joe",
-            "lastName": "Beans",
-            "quote": "The only wealth which you will keep forever is the wealth you have given away.",
-            "quoteAuthor": "-Marcus Aurelius",
-            "github": "https://github.com/rdbishop19",
-            "linkedIn": "https://www.linkedin.com/in/ryandanielbishop/",
-            "portfolio": "https://rdbishop19.github.io/",
-            "email": "rdbishop06@gmail.com",
-            "proImg": "ryan_bishop_serious.png",
-            "funImg": "ryan_bishop_fun.png",
-            "isHired": false
-          },
-          {
-            "id": 3,
-            "firstName": "Joe",
-            "lastName": "Beans",
-            "quote": "Strength does not come from winning.  Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
-            "quoteAuthor": "-Arnold Schwarzenegger",
-            "github": "https://github.com/MatthewScott32",
-            "linkedIn": "https://www.linkedin.com/in/matthew-blagg/",
-            "portfolio": "https://matthewblagg.github.io/",
-            "email": "matthewscottblagg@gmail.com",
-            "proImg": "matthew_serious.png",
-            "funImg": "matthew_fun.png",
-            "isHired": false
-          },
-          {
-            "id": 4,
-            "firstName": "Cassandra",
-            "lastName": "Boyd",
-            "quote": "The Elders of the Internet know who I am?!",
-            "quoteAuthor": "-Jen",
-            "email": "cassandra.bacon@gmail.com",
-            "github": "https://github.com/CassieBoyd",
-            "linkedIn": "https://www.linkedin.com/in/cassandra-boyd/",
-            "portfolio": "https://cassieboyd.github.io/",
-            "proImg": "cassandra_serious.png",
-            "funImg": "cassandra_fun.png",
-            "isHired": false
-          },
-          {
-=======
             "firstName": "Matthew",
             "lastName": "Baker",
             "quote": "How can sky be the limit when there's footprints on the moon?",
@@ -121,7 +64,6 @@ export default [
             "capstoneURL": ""
         },
         {
->>>>>>> 510c10199742d8f074745c99a5f5f598e3a39391
             "id": 5,
             "firstName": "Castle",
             "lastName": "Crawford",
