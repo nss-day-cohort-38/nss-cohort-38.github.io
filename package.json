@@ -1,5 +1,5 @@
 {
-  "name": "c36-class-website",
+  "name": "c38-class-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +30,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://nss-cohort-36.github.io",
+  "homepage": "https://nss-day-cohort-38.github.io",
   "browserslist": {
     "production": [
       ">0.2%",
