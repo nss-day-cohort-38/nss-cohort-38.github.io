@@ -20,13 +20,13 @@ We are Cohort 38.
 1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
 
 ## Credits
-Contributors: Landon Morgan, Sofia Candiani, Alyssa Nycum, Katie Wohl, Jack Parsons, Kurt Krafft, Mollie Goforth, Andrew Green, Dustin Murdock
+Contributors: Landon Morgan, Alyssa Nycum, Sofia Candiani, Katie Wohl, Jack Parsons, Kurt Krafft, Mollie Goforth, , Dustin Murdock, Andrew Green
 
 React Template Adapted From: Julian Garcia, Sam Pita, & Lauren Riddle from Cohort 37
 
-Class Logo Designed By: 
+Class Logo Designed By: Mollie Goforth
 
-View the deployed website at: 
+View the deployed website at: https://nss-day-cohort-38.github.io/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
