@@ -8,8 +8,6 @@ class AboutUs extends Component {
     render() {
         return (
             <>
-                <br />
-                <br />
                 <div className='about-background'>
                     <section className="about-us">
                         <h1 className="hello">Meet Cohort 38!</h1>
