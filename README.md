@@ -20,7 +20,7 @@ We are Cohort 38.
 1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
 
 ## Credits
-Contributors: Landon Morgan, Alyssa Nycum, Sofia Candiani, Katie Wohl, Jack Parsons, Kurt Krafft, Mollie Goforth, , Dustin Murdock, Andrew Green
+Contributors: Landon Morgan, Alyssa Nycum, Sofia Candiani, Katie Wohl, Jack Parsons, Kurt Krafft, Mollie Goforth, Dustin Murdock, Andrew Green
 
 React Template Adapted From: Julian Garcia, Sam Pita, & Lauren Riddle from Cohort 37
 
