@@ -39,6 +39,7 @@ class Home extends Component {
   render() {
     return (
       <>
+        <h1 class="hidden-header">We Are Cohort 38</h1>
         <Carousel>
           <Carousel.Item>
             <img
@@ -63,7 +64,6 @@ class Home extends Component {
             />
           </Carousel.Item>
         </Carousel>
-
         <section id="about">
           <AboutUs />
         </section>
