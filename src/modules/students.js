@@ -138,7 +138,7 @@ export default [
             "portfolio": "https://kurtkrafft1.github.io/",
             "email": "kurtkrafft3@gmail.com",
             "proImg": "krafft_k.png",
-            "funImg": "krafft_k.png",
+            "funImg": "krafft_k_fun.png",
             "isHired": false,
             "resume": "KurtKrafft-resume.pdf",
             "capstoneURL": ""
