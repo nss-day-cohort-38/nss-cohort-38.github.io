@@ -1,12 +1,17 @@
-.thanks {
+#thanks {
+    background-image: url(./thanks_background.png);
+    
+}
+
+.thanks-header {
     font-size: 5em;
     font-family: 'Questrial', sans-serif;
     text-align: center;
 }
 
 .thanks-titles {
-    /* color: rgb(228, 134, 58); */
-    /* font-weight: bold; */
+    color: rgb(228, 134, 58);
+    font-weight: bold;
     color: #3d5e79;
     font-size: 18px;
     font-weight: bold;
