@@ -1,9 +1,10 @@
-#thanks {
+#border-img {
+    border: 10px solid transparent;
+    padding: 15px;
     background-image: url(./thanks_background.png);
-    
 }
 
-.thanks-header {
+.thanks {
     font-size: 5em;
     font-family: 'Questrial', sans-serif;
     text-align: center;

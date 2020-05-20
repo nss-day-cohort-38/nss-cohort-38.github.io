@@ -74,6 +74,10 @@ const Technologies = () => (
                     <img className="techImage" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman Icon"></img>
                     <div className="technologyText">Postman</div>
                 </div>
+                <div className="cardContainer">
+                    <img className="techImage" src={require(`./andy.png`)} alt="AndyHeartDog"></img>
+                    <div className="technologyText">Andy Heart Dog</div>
+                </div>
             </div>
         </section>
     </>
