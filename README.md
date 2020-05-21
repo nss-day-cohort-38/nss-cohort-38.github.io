@@ -22,7 +22,7 @@ We are Cohort 38.
 ## Credits
 Contributors: Landon Morgan, Alyssa Nycum, Sofia Candiani, Katie Wohl, Jack Parsons, Kurt Krafft, Mollie Goforth, Dustin Murdock, Andrew Green
 
-React Template Adapted From: Julian Garcia, Sam Pita, & Lauren Riddle from Cohort 37
+React Template Adapted From: Julian Garcia, Sam Pita, & Lauren Riddle from Cohort 36
 
 Class Logo Designed By: Mollie Goforth
 
