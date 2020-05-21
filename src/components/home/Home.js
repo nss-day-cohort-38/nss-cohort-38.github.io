@@ -82,8 +82,6 @@ class Home extends Component {
         <section id="tech">
           <Technologies />
         </section>
-        <br />
-        <br />
         <section id="thanks">
           <Thanks />
         </section>

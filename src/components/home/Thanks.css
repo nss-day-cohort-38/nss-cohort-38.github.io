@@ -2,8 +2,13 @@
     border: 10px solid transparent;
     padding: 15px;
     background-image: url(./thanks_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
+#thanks{
+    margin-top: 70px;
+}
 .thanks {
     font-size: 5em;
     font-family: 'Questrial', sans-serif;
