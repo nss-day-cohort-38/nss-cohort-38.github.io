@@ -202,7 +202,7 @@ export default [
             "portfolio": "https://iandonmorgan.github.io/",
             "email": "morganlandon@gmail.com",
             "proImg": "morgan_l.png",
-            "funImg": "morgan_l_fun.png",
+            "funImg": "morgan_l.png",
             "isHired": false,
             "resume": "LandonMorgan-resume.pdf",
             "capstoneURL": ""

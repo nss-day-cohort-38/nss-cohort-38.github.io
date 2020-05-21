@@ -75,8 +75,10 @@ nav .container a:hover {
 }
 
 #classLogo {
-  height: 90px;
-  width: 90px;
+  padding-top: 5px;
+  height: 60px;
+  width: 60px;
+  border-radius: 5px
 }
 
 .navbar-brand{

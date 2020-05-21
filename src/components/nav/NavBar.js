@@ -12,7 +12,7 @@ const NavBar = () => (
       <div className="flexContainer2">
         <nav className="flex-item navbar-fixed-top" id="navbar">
           <Navbar collapseOnSelect expand="lg" className="nav-width navbar-collapse">
-          <Navbar.Brand href="#home"><img src={logo} alt="Cohort 36 Logo" id="classLogo"></img></Navbar.Brand>
+          <Navbar.Brand href="#home"><img src={require(`./{38}logo.png`)} alt="Cohort 36 Logo" id="classLogo"></img></Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" >
               <ul className="container" id="center-nav-elements">
