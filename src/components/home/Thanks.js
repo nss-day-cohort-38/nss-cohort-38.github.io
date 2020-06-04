@@ -5,7 +5,6 @@ import "./Thanks.css";
 
 const Thanks = () => (
   <>
-    <br />
     <p id="border-img">
     <section className="about-us" id="thanks">
       <h1 className="thanks">Thank You...</h1>
