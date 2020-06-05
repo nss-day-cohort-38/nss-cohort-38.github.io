@@ -372,7 +372,7 @@ export default [
             "firstName": "Trinity",
             "lastName": "Terry",
             "quote": "One day there won't be female leaders. There will just be leaders.",
-            "quoteAuthor": "",
+            "quoteAuthor": "-Sheryl Sandberg",
             "github": "https://github.com/TrinityTerry",
             "linkedIn": "https://www.linkedin.com/in/trinityterry/",
             "portfolio": "https://trinitychristiana.netlify.app/",
