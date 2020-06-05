@@ -1,6 +1,6 @@
 {
   "name": "c38-class-website",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
@@ -30,7 +30,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://nss-cohort-38.github.io",
+  "homepage": "https://nss-day-cohort-38.github.io",
   "browserslist": {
     "production": [
       ">0.2%",
