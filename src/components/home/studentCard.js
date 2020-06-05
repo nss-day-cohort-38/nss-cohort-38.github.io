@@ -30,7 +30,10 @@ class StudentCard extends Component {
                       {/* </picture> */}
                     </div>
                     <h2 className="student-name">{this.props.student.firstName} {this.props.student.lastName}</h2>
-                    <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
+                    {this.props.student.lastName === 'Prince' ?
+                      <p className="student-quote">{this.props.student.quote}<br />{this.props.student.quoteAuthor}</p> : 
+                      <p className="student-quote">"{this.props.student.quote}"<br />{this.props.student.quoteAuthor}</p>
+                    }
                     <div className="student-links">
                       <div className="icon-container">
                         { this.props.student.portfolio !== "" ?
