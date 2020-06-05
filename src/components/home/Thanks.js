@@ -58,8 +58,7 @@ const Thanks = () => (
           <div className="thanks-message">
             Ashley and Kristin, our career dev gurus: thank you for your
             invaluable advice, for coordinating talks with members of the
-            industry, and for your effort in making us all look better than we
-            are. <br /> <br />
+            industry, and for preparing us for our future in software development. <br /> <br />
             John, thank you for creating this incredible place where we can all
             congregate, learn, and better ourselves. All of our lives have been
             changed by your work and we can’t express enough gratitude for that.{" "}

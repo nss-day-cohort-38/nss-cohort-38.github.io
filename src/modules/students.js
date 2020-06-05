@@ -308,7 +308,7 @@ export default [
             "firstName": "Mike",
             "lastName": "Prince",
             "quote": "Alice: This is impossible.",
-            "quoteAuthor": "",
+            "quoteAuthor": "Mad Hatter: Only if you believe it is.",
             "github": "https://github.com/michaelprince3",
             "linkedIn": "https://www.linkedin.com/in/michaelprince3",
             "portfolio": "",

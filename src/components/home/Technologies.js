@@ -10,35 +10,35 @@ const Technologies = () => (
             <h2 id="techTitle">Technologies</h2>
             <div className="technologiesContainer">
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/javascript.png" alt="JavaScript Icon"></img>
+                    <img className="techImage" src={require(`./javascript.png`)} alt="JavaScript Icon"></img>
                     <div className="technologyText">Javascript</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/reactJS.png" alt="React Icon"></img>
+                    <img className="techImage" src={require(`./reactJS.png`)} alt="React Icon"></img>
                     <div className="technologyText">React JS</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" alt="Python Icon"></img>
+                    <img className="techImage" src={require(`./python.png`)} alt="Python Icon"></img>
                     <div className="technologyText">Python</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/3692106/django.png?width=40" alt="Django Icon"></img>
+                    <img className="techImage" src={require(`./django.png`)} alt="Django Icon"></img>
                     <div className="technologyText">Django</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/git.png" alt="Git Icon"></img>
+                    <img className="techImage" src={require(`./git.png`)} alt="Git Icon"></img>
                     <div className="technologyText">Git</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/github.png" alt="GitHub Icon"></img>
+                    <img className="techImage" src={require(`./github.png`)} alt="GitHub Icon"></img>
                     <div className="technologyText">GitHub</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/html5.png" alt="HTML5 Icon"></img>
+                    <img className="techImage" src={require(`./html5.png`)} alt="HTML5 Icon"></img>
                     <div className="technologyText">HTML5</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/css3.png" alt="CSS3 Icon"></img>
+                    <img className="techImage" src={require(`./css3.png`)} alt="CSS3 Icon"></img>
                     <div className="technologyText">CSS3</div>
                 </div>
                 {/* <div className="cardContainer">
@@ -50,28 +50,32 @@ const Technologies = () => (
                     <div className="technologyText">Webpack</div>
                 </div> */}
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/npm.png" alt="NPM Icon"></img>
+                    <img className="techImage" src={require(`./npm.png`)} alt="NPM Icon"></img>
                     <div className="technologyText">NPM</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nextfaze.gallerycdn.vsassets.io/extensions/nextfaze/json-parse-stringify/1.0.2/1519864325244/Microsoft.VisualStudio.Services.Icons.Default" alt="JSON Icon"></img>
+                    <img className="techImage" src={require(`./json.png`)} alt="JSON Icon"></img>
                     <div className="technologyText">JSON</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://getdrawings.com/free-icon/sql-server-icon-51.png" alt="SQL Icon"></img>
+                    <img className="techImage" src={require(`./sql.png`)} alt="SQL Icon"></img>
                     <div className="technologyText">SQL</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://i0.wp.com/mactorrents.io/wp-content/uploads/2019/10/1570878503_313_Tableplus-icon.png?ssl=1" alt="TablePlus Icon"></img>
+                    <img className="techImage" src={require(`./tplus.png`)} alt="TablePlus Icon"></img>
                     <div className="technologyText">TablePlus</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/vsc.png" alt="VSCode Icon"></img>
+                    <img className="techImage" src={require(`./vsc.png`)} alt="VSCode Icon"></img>
                     <div className="technologyText">Visual Studio Code</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman Icon"></img>
+                    <img className="techImage" src={require(`./postman.png`)} alt="Postman Icon"></img>
                     <div className="technologyText">Postman</div>
+                </div>
+                <div className="cardContainer">
+                    <img className="techImage" src={require(`./zoom.jpg`)} alt="Zoom Icon"></img>
+                    <div className="technologyText">Zoom</div>
                 </div>
                 <div className="cardContainer">
                     <img className="techImage" src={require(`./andy.png`)} alt="AndyHeartDog"></img>
