@@ -67,7 +67,7 @@ class Home extends Component {
         <section id="about">
           <AboutUs />
         </section>
-        {/* <Podcasts></Podcasts> */}
+        <Podcasts></Podcasts>
         <div id="devs" className="container-cards">
           {this.state.students.map(student =>
             <StudentCard

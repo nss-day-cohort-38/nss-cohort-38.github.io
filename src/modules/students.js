@@ -13,7 +13,7 @@ export default [
             "funImg": "baker_m.png",
             "isHired": false,
             "resume": "MatthewBaker-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "ayA9JxKT3iI"
         },
         {
             "id": 2,
@@ -29,7 +29,7 @@ export default [
             "funImg": "blagg_m.png",
             "isHired": false,
             "resume": "MattBlagg-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "U1fuJN2s9Ug"
         },
         {
             "id": 3,
@@ -45,7 +45,7 @@ export default [
             "funImg": "candiani_s.png",
             "isHired": false,
             "resume": "SofiaCandiani-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "hUeIW-S1d7A"
         },
         {
             "id": 4,
@@ -61,7 +61,7 @@ export default [
             "funImg": "clark_m.png",
             "isHired": false,
             "resume": "MichaelClark-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "WW9buaub2js"
         },
         {
             "id": 5,
@@ -77,7 +77,7 @@ export default [
             "funImg": "crawford_c.png",
             "isHired": false,
             "resume": "CastleCrawford-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "E5Rk434JSFE"
         },
         {
             "id": 6,
@@ -93,7 +93,7 @@ export default [
             "funImg": "crook_m.png",
             "isHired": false,
             "resume": "MattCrook-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "JvGl1Bt2vBA"
         },
         {
             "id": 7,
@@ -109,7 +109,7 @@ export default [
             "funImg": "goforth_m.png",
             "isHired": false,
             "resume": "MollieGoforth-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "MIXhFjzFhek"
         },
         {
             "id": 8,
@@ -125,7 +125,7 @@ export default [
             "funImg": "green_a.png",
             "isHired": false,
             "resume": "AndrewGreen-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "wljBHQv7Luk"
         },
         {
             "id": 9,
@@ -141,7 +141,7 @@ export default [
             "funImg": "krafft_k.png",
             "isHired": false,
             "resume": "KurtKrafft-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "ApKvfbYheoU"
         },
         {
             "id": 10,
@@ -157,24 +157,24 @@ export default [
             "funImg": "kroeger_m.png",
             "isHired": false,
             "resume": "MatthewKroeger-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "9uee6lk3qRk"
         },
-        {
-            "id": 11,
-            "firstName": "Bito",
-            "lastName": "Mann",
-            "quote": "If you get tired, learn to rest, not to quit.",
-            "quoteAuthor": "-Banksy",
-            "github": "https://github.com/bitomann?tab=repositories",
-            "linkedIn": "https://www.linkedin.com/in/bitomann/",
-            "portfolio": "bitomann.com",
-            "email": "bito@bitomann.com",
-            "proImg": "mann_b.png",
-            "funImg": "mann_b.png",
-            "isHired": false,
-            "resume": "BitoMann-resume.pdf",
-            "capstoneURL": ""
-        },
+        // {
+        //     "id": 11,
+        //     "firstName": "Bito",
+        //     "lastName": "Mann",
+        //     "quote": "If you get tired, learn to rest, not to quit.",
+        //     "quoteAuthor": "-Banksy",
+        //     "github": "https://github.com/bitomann?tab=repositories",
+        //     "linkedIn": "https://www.linkedin.com/in/bitomann/",
+        //     "portfolio": "bitomann.com",
+        //     "email": "bito@bitomann.com",
+        //     "proImg": "mann_b.png",
+        //     "funImg": "mann_b.png",
+        //     "isHired": false,
+        //     "resume": "BitoMann-resume.pdf",
+        //     "capstoneURL": ""
+        // },
         {
             "id": 12,
             "firstName": "Jeremy",
@@ -189,7 +189,7 @@ export default [
             "funImg": "mattingly_j.png",
             "isHired": false,
             "resume": "JeremyMattingly-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "BdSTYEjxRa0"
         },
         {
             "id": 13,
@@ -205,7 +205,7 @@ export default [
             "funImg": "morgan_l.png",
             "isHired": false,
             "resume": "LandonMorgan-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "GRJUgTuARd0"
         },
         {
             "id": 14,
@@ -221,7 +221,7 @@ export default [
             "funImg": "murdock_c.png",
             "isHired": false,
             "resume": "CodyMurdock-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "e7DRKt52Y6A"
         },
         {
             "id": 15,
@@ -237,7 +237,7 @@ export default [
             "funImg": "murdock_d.png",
             "isHired": false,
             "resume": "DustinMurdock-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "fCIjHT-PbEA"
         },
         {
             "id": 16,
@@ -253,7 +253,7 @@ export default [
             "funImg": "nichols_c.png",
             "isHired": false,
             "resume": "CooperNichols-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "nMvE-hvN_2k"
         },
         {
             "id": 17,
@@ -269,7 +269,7 @@ export default [
             "funImg": "nycum_a.png",
             "isHired": false,
             "resume": "AlyssaNycum-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "wD8I59EqAAY"
         },
         {
             "id": 18,
@@ -285,7 +285,7 @@ export default [
             "funImg": "parsons_j.png",
             "isHired": false,
             "resume": "JackParsons-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "3gQmyiHj47I"
         },
         {
             "id": 19,
@@ -301,7 +301,7 @@ export default [
             "funImg": "potempa_k.png",
             "isHired": false,
             "resume": "KeithPotempa-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "uC1eQSiaTs8"
         },
         {
             "id": 20,
@@ -317,7 +317,7 @@ export default [
             "funImg": "prince_m.png",
             "isHired": false,
             "resume": "JosephPrince-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "kLpzom0wLm0"
         },
         {
             "id": 21,
@@ -333,7 +333,7 @@ export default [
             "funImg": "reeds_m.png",
             "isHired": false,
             "resume": "MattReeds-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "EOrXZPbk0Ic"
         },
         {
             "id": 22,
@@ -349,7 +349,7 @@ export default [
             "funImg": "simeone_t.png",
             "isHired": false,
             "resume": "TylerSimeone-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "GDuQfzXF8e0"
         },
         {
             "id": 23,
@@ -365,7 +365,7 @@ export default [
             "funImg": "sullins_c.png",
             "isHired": false,
             "resume": "ChaseSullins-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "xD2qorREuzs"
         },
         {
             "id": 24,
@@ -381,7 +381,7 @@ export default [
             "funImg": "terry_t.png",
             "isHired": false,
             "resume": "TrinityTerry-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "Qffx3BGKNas"
         },
         {
             "id": 25,
@@ -397,6 +397,6 @@ export default [
             "funImg": "wohl_k.png",
             "isHired": false,
             "resume": "KathrynWohl-resume.pdf",
-            "capstoneURL": ""
+            "capstoneURL": "yfeSEjlJN_w"
         }
 ]
