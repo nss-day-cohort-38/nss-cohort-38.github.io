@@ -203,7 +203,7 @@ export default [
             "email": "morganlandon@gmail.com",
             "proImg": "morgan_l.png",
             "funImg": "morgan_l.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "LandonMorgan-resume.pdf",
             "capstoneURL": "GRJUgTuARd0"
         },
