@@ -397,6 +397,6 @@ export default [
             "funImg": "wohl_k.png",
             "isHired": false,
             "resume": "KathrynWohl-resume.pdf",
-            "capstoneURL": "yfeSEjlJN_w"
+            "capstoneURL": "F7pV3EbFxYU"
         }
 ]
