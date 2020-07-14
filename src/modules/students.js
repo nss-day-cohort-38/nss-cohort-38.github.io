@@ -151,7 +151,7 @@ export default [
             "quoteAuthor": "-Me",
             "github": "https://github.com/mKroogz",
             "linkedIn": "https://www.linkedin.com/in/matthewkroeger/",
-            "portfolio": "",
+            "portfolio": "https://mkroogz.github.io",
             "email": "matt.kroogz@gmail.com",
             "proImg": "kroeger_m.png",
             "funImg": "kroeger_m.png",
