@@ -123,7 +123,7 @@ export default [
             "email": "green.andrew.b@gmail.com",
             "proImg": "green_a.png",
             "funImg": "green_a.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "AndrewGreen-resume.pdf",
             "capstoneURL": "wljBHQv7Luk"
         },
@@ -139,7 +139,7 @@ export default [
             "email": "kurtkrafft3@gmail.com",
             "proImg": "krafft_k.png",
             "funImg": "krafft_k.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "KurtKrafft-resume.pdf",
             "capstoneURL": "ApKvfbYheoU"
         },
