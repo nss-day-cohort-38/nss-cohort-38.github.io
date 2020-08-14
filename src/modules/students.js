@@ -235,7 +235,7 @@ export default [
             "email": "dmurdock2@gmail.com",
             "proImg": "murdock_d.png",
             "funImg": "murdock_d.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "DustinMurdock-resume.pdf",
             "capstoneURL": "fCIjHT-PbEA"
         },
@@ -267,7 +267,7 @@ export default [
             "email": "alyssa.nycum@gmail.com",
             "proImg": "nycum_a.png",
             "funImg": "nycum_a.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "AlyssaNycum-resume.pdf",
             "capstoneURL": "wD8I59EqAAY"
         },
