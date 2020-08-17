@@ -379,7 +379,7 @@ export default [
             "email": "trinitycterry@gmail.com",
             "proImg": "terry_t.png",
             "funImg": "terry_t.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "TrinityTerry-resume.pdf",
             "capstoneURL": "Qffx3BGKNas"
         },
