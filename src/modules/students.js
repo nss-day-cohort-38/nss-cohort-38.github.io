@@ -59,7 +59,7 @@ export default [
             "email": "michaelclarknashville@protonmail.com",
             "proImg": "clark_m.png",
             "funImg": "clark_m.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "MichaelClark-resume.pdf",
             "capstoneURL": "WW9buaub2js"
         },
@@ -91,7 +91,7 @@ export default [
             "email": "matt.crook11@gmail.com",
             "proImg": "crook_m.png",
             "funImg": "crook_m.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "MattCrook-resume.pdf",
             "capstoneURL": "JvGl1Bt2vBA"
         },
@@ -187,7 +187,7 @@ export default [
             "email": "jamattingly@live.com",
             "proImg": "mattingly_j.png",
             "funImg": "mattingly_j.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremyMattingly-resume.pdf",
             "capstoneURL": "BdSTYEjxRa0"
         },
@@ -251,7 +251,7 @@ export default [
             "email": "coopnich92@gmail.com",
             "proImg": "nichols_c.png",
             "funImg": "nichols_c.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "CooperNichols-resume.pdf",
             "capstoneURL": "nMvE-hvN_2k"
         },
@@ -283,7 +283,7 @@ export default [
             "email": "jcksnparsons@gmail.com",
             "proImg": "parsons_j.png",
             "funImg": "parsons_j.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JackParsons-resume.pdf",
             "capstoneURL": "3gQmyiHj47I"
         },
@@ -299,7 +299,7 @@ export default [
             "email": "keithrpotempa@gmail.com",
             "proImg": "potempa_k.png",
             "funImg": "potempa_k.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "KeithPotempa-resume.pdf",
             "capstoneURL": "uC1eQSiaTs8"
         },
@@ -331,7 +331,7 @@ export default [
             "email": "mattlreeds@gmail.com",
             "proImg": "reeds_m.png",
             "funImg": "reeds_m.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "MattReeds-resume.pdf",
             "capstoneURL": "EOrXZPbk0Ic"
         },
@@ -347,7 +347,7 @@ export default [
             "email": "tyler.simeone@gmail.com",
             "proImg": "simeone_t.png",
             "funImg": "simeone_t.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "TylerSimeone-resume.pdf",
             "capstoneURL": "GDuQfzXF8e0"
         },
